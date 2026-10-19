@@ -1,0 +1,5999 @@
+[
+  {
+    "id": "class-01",
+    "year": "IV",
+    "semester": "VII",
+    "section": "S1",
+    "classIncharge": "Dr.V.Geetha",
+    "schedule": [
+      {
+        "day": "MONDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "CB",
+            "room": null,
+            "sourceText": "CB"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Digital / Marketing/ / Disaster",
+            "room": null,
+            "sourceText": "Digital Marketing/ Disaster"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "MOOC COURSE",
+            "room": null,
+            "sourceText": "MOOC COURSE"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "Project Work / P-I",
+            "room": null,
+            "sourceText": "Project Work P-I"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Project Work P-I",
+            "room": null,
+            "sourceText": "Project Work P-I"
+          }
+        ]
+      },
+      {
+        "day": "TUESDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Digital / Marketing/ / Disaster",
+            "room": null,
+            "sourceText": "Digital Marketing/ Disaster"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "ITP",
+            "room": null,
+            "sourceText": "ITP"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "CA/VUL",
+            "room": null,
+            "sourceText": "CA/VUL"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "ITP",
+            "room": null,
+            "sourceText": "ITP"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "Project Work / P-I",
+            "room": null,
+            "sourceText": "Project Work P-I"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "CA/VUL",
+            "room": null,
+            "sourceText": "CA/VUL"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "Project Work / P-I",
+            "room": null,
+            "sourceText": "Project Work P-I"
+          }
+        ]
+      },
+      {
+        "day": "WEDNESDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Digital / Marketing/ / Disaster",
+            "room": null,
+            "sourceText": "Digital Marketing/ Disaster"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "ITP",
+            "room": null,
+            "sourceText": "ITP"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "CB",
+            "room": null,
+            "sourceText": "CB"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "Project Work / P-I",
+            "room": null,
+            "sourceText": "Project Work P-I"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Project Work P-I",
+            "room": null,
+            "sourceText": "Project Work P-I"
+          }
+        ]
+      },
+      {
+        "day": "THURSDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "ITP",
+            "room": null,
+            "sourceText": "ITP"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "CB",
+            "room": null,
+            "sourceText": "CB"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Project Work P-I",
+            "room": null,
+            "sourceText": "Project Work P-I"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Project Work / P-I",
+            "room": null,
+            "sourceText": "Project Work P-I"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "CI",
+            "room": null,
+            "sourceText": "CI"
+          }
+        ]
+      },
+      {
+        "day": "FRIDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Project Work P-I",
+            "room": null,
+            "sourceText": "Project Work P-I"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "CA/VUL",
+            "room": null,
+            "sourceText": "CA/VUL"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Project Work P-I",
+            "room": null,
+            "sourceText": "Project Work P-I"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Project Work P-I",
+            "room": null,
+            "sourceText": "Project Work P-I"
+          }
+        ]
+      }
+    ],
+    "courses": [
+      {
+        "code": "BCSF187EL0",
+        "name": "Elective - IV(Big data Analytics)",
+        "faculty": ""
+      },
+      {
+        "code": "BCSF187EO0 /BCSF187EM0",
+        "name": "Elective - V(Artificial Intelligence / Block chain Technology)",
+        "faculty": ""
+      },
+      {
+        "code": "BCSF187OEB / BCSF187OED",
+        "name": "Open Elective - I(Disaster Management / Digital Marketing )",
+        "faculty": "Mr.Sreesha/Civil Dept."
+      },
+      {
+        "code": "BCSF187T40",
+        "name": "Computational Biology",
+        "faculty": "Dr.V.Geetha"
+      },
+      {
+        "code": "BCSF187Z50",
+        "name": "Project Work Phase - I",
+        "faculty": "Dr.K.Balachandran"
+      },
+      {
+        "code": "BCSF187P60",
+        "name": "Industrial Training & Practice",
+        "faculty": "Dr.K.Balachandran"
+      },
+      {
+        "code": "HONS-AIML",
+        "name": "Cognitive Analytics",
+        "faculty": "Dr.R.Prema"
+      },
+      {
+        "code": "HONS-Cy.SEC",
+        "name": "Vulnerability Discovery & Exploit Development",
+        "faculty": "Mr.E.Sankar"
+      }
+    ],
+    "source": "Class Time Table Jul 2026.pdf"
+  },
+  {
+    "id": "class-02",
+    "year": "IV",
+    "semester": "VII",
+    "section": "S2",
+    "classIncharge": "Dr.T.Lakshmibai",
+    "schedule": [
+      {
+        "day": "MONDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "IOT/Project",
+            "room": null,
+            "sourceText": "IOT/Project"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Digital / Marketing/ / Disaster",
+            "room": null,
+            "sourceText": "Digital Marketing/ Disaster"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "MOOC COURSE",
+            "room": null,
+            "sourceText": "MOOC COURSE"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "ROBOTIC LAB",
+            "room": null,
+            "sourceText": "ROBOTIC LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "IOT/ROBOTIC LAB",
+            "room": null,
+            "sourceText": "IOT/ROBOTIC LAB"
+          }
+        ]
+      },
+      {
+        "day": "TUESDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Digital / Marketing/ / Disaster",
+            "room": null,
+            "sourceText": "Digital Marketing/ Disaster"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "ITP",
+            "room": null,
+            "sourceText": "ITP"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "CA/VUL/IOT",
+            "room": null,
+            "sourceText": "CA/VUL/IOT"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "ITP",
+            "room": null,
+            "sourceText": "ITP"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "CA/VUL/IOT",
+            "room": null,
+            "sourceText": "CA/VUL/IOT"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "Project Work / P-I",
+            "room": null,
+            "sourceText": "Project Work P-I"
+          }
+        ]
+      },
+      {
+        "day": "WEDNESDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Digital / Marketing/ / Disaster",
+            "room": null,
+            "sourceText": "Digital Marketing/ Disaster"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "CB/MC",
+            "room": null,
+            "sourceText": "CB/MC"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Project Work P-I",
+            "room": null,
+            "sourceText": "Project Work P-I"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Project Work P-I",
+            "room": null,
+            "sourceText": "Project Work P-I"
+          }
+        ]
+      },
+      {
+        "day": "THURSDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "ITP",
+            "room": null,
+            "sourceText": "ITP"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "CB/MC",
+            "room": null,
+            "sourceText": "CB/MC"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Project Work P-I",
+            "room": null,
+            "sourceText": "Project Work P-I"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Project Work / P-I",
+            "room": null,
+            "sourceText": "Project Work P-I"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "CI",
+            "room": null,
+            "sourceText": "CI"
+          }
+        ]
+      },
+      {
+        "day": "FRIDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "CB/MC",
+            "room": null,
+            "sourceText": "CB/MC"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "ITP",
+            "room": null,
+            "sourceText": "ITP"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "CA/VUL/IOT",
+            "room": null,
+            "sourceText": "CA/VUL/IOT"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "ITP",
+            "room": null,
+            "sourceText": "ITP"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "Project Work / P-I",
+            "room": null,
+            "sourceText": "Project Work P-I"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Project Work P-I",
+            "room": null,
+            "sourceText": "Project Work P-I"
+          }
+        ]
+      }
+    ],
+    "courses": [
+      {
+        "code": "BCSF187EL0",
+        "name": "Elective - IV(Big data Analytics)",
+        "faculty": ""
+      },
+      {
+        "code": "BCSF187EO0 /BCSF187EM0",
+        "name": "Elective - V(Artificial Intelligence / Block chain Technology)",
+        "faculty": ""
+      },
+      {
+        "code": "BCSF187OEA / BCSF187OEB / BCSF187OED",
+        "name": "Open Elective - I(PLC And Data Acquisition System / Disaster Management / Digital Marketing )",
+        "faculty": "Mr.Sreesha/Civil Dept.Staff"
+      },
+      {
+        "code": "BCSF187T40",
+        "name": "Mobile Computing / Computational Biology",
+        "faculty": "Dr.T.Lakshmibai"
+      },
+      {
+        "code": "BCSF187Z50",
+        "name": "Project Work Phase - I",
+        "faculty": "Dr.K.Balachandran"
+      },
+      {
+        "code": "BCSF187P60",
+        "name": "Industrial Training & Practice",
+        "faculty": "Dr.K.Balachandran"
+      },
+      {
+        "code": "HONS-AIML",
+        "name": "Cognitive Analytics",
+        "faculty": "Dr.R.Prema"
+      },
+      {
+        "code": "HONS-Cy.SEC",
+        "name": "Vulnerability Discovery & Exploit Development",
+        "faculty": "Mr.E.Sankar"
+      },
+      {
+        "code": "HONS-IOT",
+        "name": "Fog Computing & Energy Management in IOT Devices",
+        "faculty": "Dr.R.Govindarajan"
+      },
+      {
+        "code": "",
+        "name": "Web and Mobile Application Programming for IOT & Lab",
+        "faculty": "Dr.R.Govindarajan"
+      },
+      {
+        "code": "HONS - ROB",
+        "name": "PLC and Robotics Laboratory",
+        "faculty": "Mech. Dept. Staff"
+      }
+    ],
+    "source": "Class Time Table Jul 2026.pdf"
+  },
+  {
+    "id": "class-03",
+    "year": "III",
+    "semester": "V",
+    "section": "S1",
+    "classIncharge": "Dr.T.Sundar",
+    "schedule": [
+      {
+        "day": "MONDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Automata / Theory",
+            "room": null,
+            "sourceText": "Automata Theory"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Computer Networks Lab",
+            "room": "Computer Lab -2",
+            "sourceText": "Computer Networks Lab Computer Lab -2"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "Natural / Language / Processing",
+            "room": null,
+            "sourceText": "Natural Language Processing"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Soft Skill",
+            "room": null,
+            "sourceText": "Soft Skill"
+          }
+        ]
+      },
+      {
+        "day": "TUESDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Professional / Elective-I",
+            "room": null,
+            "sourceText": "Professional Elective-I"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Automata / Theory",
+            "room": null,
+            "sourceText": "Automata Theory"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Programming / in Java",
+            "room": null,
+            "sourceText": "Programming in Java"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Computer / Networks",
+            "room": null,
+            "sourceText": "Computer Networks"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "DBMS Lab",
+            "room": null,
+            "sourceText": "DBMS Lab"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "DBMS Lab",
+            "room": "Computer Lab -3",
+            "sourceText": "DBMS Lab Computer Lab -3"
+          }
+        ]
+      },
+      {
+        "day": "WEDNESDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Computer / Networks",
+            "room": null,
+            "sourceText": "Computer Networks"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Programming in JAVA Lab",
+            "room": "MAD Lab",
+            "sourceText": "Programming in JAVA Lab MAD Lab"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "CI",
+            "room": null,
+            "sourceText": "CI"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "DBMS",
+            "room": null,
+            "sourceText": "DBMS"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "YOGA",
+            "room": null,
+            "sourceText": "YOGA"
+          }
+        ]
+      },
+      {
+        "day": "THURSDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Professional / Elective-I",
+            "room": null,
+            "sourceText": "Professional Elective-I"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Natural / Language / Processing",
+            "room": null,
+            "sourceText": "Natural Language Processing"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "DBMS",
+            "room": null,
+            "sourceText": "DBMS"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Programming / in Java",
+            "room": null,
+            "sourceText": "Programming in Java"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "NLP Lab",
+            "room": null,
+            "sourceText": "NLP Lab"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "NLP Lab",
+            "room": "DELL Lab",
+            "sourceText": "NLP Lab DELL Lab"
+          }
+        ]
+      },
+      {
+        "day": "FRIDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "DBMS",
+            "room": null,
+            "sourceText": "DBMS"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Computer / Networks",
+            "room": null,
+            "sourceText": "Computer Networks"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Professional / Elective-I",
+            "room": null,
+            "sourceText": "Professional Elective-I"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Natural / Language / Processing",
+            "room": null,
+            "sourceText": "Natural Language Processing"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "Automata / Theory",
+            "room": null,
+            "sourceText": "Automata Theory"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Programming / in Java",
+            "room": null,
+            "sourceText": "Programming in Java"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "Automata / Theory",
+            "room": null,
+            "sourceText": "Automata Theory"
+          }
+        ]
+      }
+    ],
+    "courses": [
+      {
+        "code": "BCSF245T10",
+        "name": "Automata Theory",
+        "faculty": ""
+      },
+      {
+        "code": "BCSF245T20",
+        "name": "Computer Networks",
+        "faculty": "Dr.T.Sundar"
+      },
+      {
+        "code": "BCSF245T30",
+        "name": "Programming in Java",
+        "faculty": "Dr.P.Shanmugapriya"
+      },
+      {
+        "code": "BCSF245T40",
+        "name": "Database Management System (DBMS)",
+        "faculty": "Mr.V.Balu"
+      },
+      {
+        "code": "BCSF245EA0/ BCSF245EB0",
+        "name": "Professional Elective-I (Object Oriented Analysis and Design / Internet of Things)",
+        "faculty": ""
+      },
+      {
+        "code": "",
+        "name": "",
+        "faculty": "Ms.Hema Poorani.J"
+      },
+      {
+        "code": "BCSF245P60",
+        "name": "Computer Networks Lab",
+        "faculty": "Dr.T.Sundar"
+      },
+      {
+        "code": "BCSF245P70",
+        "name": "Programming in Java Lab",
+        "faculty": "Dr.P.Shanmugapriya"
+      },
+      {
+        "code": "BCSF245P80",
+        "name": "Database Management System Lab",
+        "faculty": "Mr.V.Balu"
+      },
+      {
+        "code": "BCSF245AI1",
+        "name": "Natural Language Processing",
+        "faculty": "Dr.M.Gayathri"
+      },
+      {
+        "code": "BCSF245AI2",
+        "name": "Natural Language Processing Lab",
+        "faculty": "Dr.M.Gayathri"
+      },
+      {
+        "code": "BETF24MC05",
+        "name": "Yoga / Soft Skill",
+        "faculty": ""
+      }
+    ],
+    "source": "Class Time Table Jul 2026.pdf"
+  },
+  {
+    "id": "class-04",
+    "year": "III",
+    "semester": "V",
+    "section": "S2",
+    "classIncharge": "Dr.T.Dineshkumar",
+    "schedule": [
+      {
+        "day": "MONDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Programming / in Java",
+            "room": null,
+            "sourceText": "Programming in Java"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "DBMS Lab",
+            "room": "Computer Lab -3",
+            "sourceText": "DBMS Lab Computer Lab -3"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "Computer / Networks",
+            "room": null,
+            "sourceText": "Computer Networks"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Automata / Theory",
+            "room": null,
+            "sourceText": "Automata Theory"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "Natural / Language / Processing",
+            "room": null,
+            "sourceText": "Natural Language Processing"
+          }
+        ]
+      },
+      {
+        "day": "TUESDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Professional / Elective-I",
+            "room": null,
+            "sourceText": "Professional Elective-I"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Natural / Language / Processing",
+            "room": null,
+            "sourceText": "Natural Language Processing"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "DBMS",
+            "room": null,
+            "sourceText": "DBMS"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Computer / Networks",
+            "room": null,
+            "sourceText": "Computer Networks"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "JAVA Lab",
+            "room": null,
+            "sourceText": "JAVA Lab"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Programming in JAVA Lab",
+            "room": "MAD Lab",
+            "sourceText": "Programming in JAVA Lab MAD Lab"
+          }
+        ]
+      },
+      {
+        "day": "WEDNESDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Automata / Theory",
+            "room": null,
+            "sourceText": "Automata Theory"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "DBMS",
+            "room": null,
+            "sourceText": "DBMS"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Automata / Theory",
+            "room": null,
+            "sourceText": "Automata Theory"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Programming / in Java",
+            "room": null,
+            "sourceText": "Programming in Java"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "YOGA",
+            "room": null,
+            "sourceText": "YOGA"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Soft Skill",
+            "room": null,
+            "sourceText": "Soft Skill"
+          }
+        ]
+      },
+      {
+        "day": "THURSDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Professional / Elective-I",
+            "room": null,
+            "sourceText": "Professional Elective-I"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Computer Networks Lab",
+            "room": "Computer Lab -2",
+            "sourceText": "Computer Networks Lab Computer Lab -2"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "Automata / Theory",
+            "room": null,
+            "sourceText": "Automata Theory"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Natural / Language / Processing",
+            "room": null,
+            "sourceText": "Natural Language Processing"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "CI",
+            "room": null,
+            "sourceText": "CI"
+          }
+        ]
+      },
+      {
+        "day": "FRIDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Computer / Networks",
+            "room": null,
+            "sourceText": "Computer Networks"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Programming / in Java",
+            "room": null,
+            "sourceText": "Programming in Java"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Professional / Elective-I",
+            "room": null,
+            "sourceText": "Professional Elective-I"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "DBMS",
+            "room": null,
+            "sourceText": "DBMS"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "NLP Lab",
+            "room": null,
+            "sourceText": "NLP Lab"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "NLP Lab",
+            "room": "DELL Lab",
+            "sourceText": "NLP Lab DELL Lab"
+          }
+        ]
+      }
+    ],
+    "courses": [
+      {
+        "code": "BCSF245T10",
+        "name": "Automata Theory",
+        "faculty": ""
+      },
+      {
+        "code": "BCSF245T20",
+        "name": "Computer Networks",
+        "faculty": "Dr.T.Dineshkumar"
+      },
+      {
+        "code": "BCSF245T30",
+        "name": "Programming in Java",
+        "faculty": "Mr.E.Sankar"
+      },
+      {
+        "code": "BCSF245T40",
+        "name": "Database Management System (DBMS)",
+        "faculty": "Mr.V.Balu"
+      },
+      {
+        "code": "BCSF245EA0/ BCSF245EB0",
+        "name": "Professional Elective-I (Object Oriented Analysis and Design / Internet of Things)",
+        "faculty": ""
+      },
+      {
+        "code": "",
+        "name": "",
+        "faculty": "Ms.Hema Poorani.J"
+      },
+      {
+        "code": "BCSF245P60",
+        "name": "Computer Networks Lab",
+        "faculty": "Dr.T.Dineshkumar"
+      },
+      {
+        "code": "BCSF245P70",
+        "name": "Programming in Java Lab",
+        "faculty": "Dr.P.Shanmugapriya"
+      },
+      {
+        "code": "BCSF245P80",
+        "name": "Database Management System Lab",
+        "faculty": "Mr.V.Balu"
+      },
+      {
+        "code": "BCSF245AI1",
+        "name": "Natural Language Processing",
+        "faculty": "Dr.R.Prema"
+      },
+      {
+        "code": "BCSF245AI2",
+        "name": "Natural Language Processing Lab",
+        "faculty": "Dr.R.Prema"
+      },
+      {
+        "code": "BETF24MC05",
+        "name": "Yoga / Soft Skill",
+        "faculty": ""
+      }
+    ],
+    "source": "Class Time Table Jul 2026.pdf"
+  },
+  {
+    "id": "class-05",
+    "year": "III",
+    "semester": "V",
+    "section": "S3",
+    "classIncharge": "Dr.R.Sivaramakrishnan",
+    "schedule": [
+      {
+        "day": "MONDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Automata / Theory",
+            "room": null,
+            "sourceText": "Automata Theory"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "DBMS",
+            "room": null,
+            "sourceText": "DBMS"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Automata / Theory",
+            "room": null,
+            "sourceText": "Automata Theory"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Natural / Language / Processing",
+            "room": null,
+            "sourceText": "Natural Language Processing"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "CI",
+            "room": null,
+            "sourceText": "CI"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Programming / in Java",
+            "room": null,
+            "sourceText": "Programming in Java"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "YOGA",
+            "room": null,
+            "sourceText": "YOGA"
+          }
+        ]
+      },
+      {
+        "day": "TUESDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Professional / Elective-I",
+            "room": null,
+            "sourceText": "Professional Elective-I"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Computer Networks Lab",
+            "room": "Computer Lab -2",
+            "sourceText": "Computer Networks Lab Computer Lab -2"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "Natural / Language / Processing",
+            "room": null,
+            "sourceText": "Natural Language Processing"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Soft Skill",
+            "room": null,
+            "sourceText": "Soft Skill"
+          }
+        ]
+      },
+      {
+        "day": "WEDNESDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Computer / Networks",
+            "room": null,
+            "sourceText": "Computer Networks"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "NLP Lab",
+            "room": "DELL Lab",
+            "sourceText": "NLP Lab DELL Lab"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "Programming / in Java",
+            "room": null,
+            "sourceText": "Programming in Java"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Natural / Language / Processing",
+            "room": null,
+            "sourceText": "Natural Language Processing"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "DBMS",
+            "room": null,
+            "sourceText": "DBMS"
+          }
+        ]
+      },
+      {
+        "day": "THURSDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Professional / Elective-I",
+            "room": null,
+            "sourceText": "Professional Elective-I"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Computer / Networks",
+            "room": null,
+            "sourceText": "Computer Networks"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Programming / in Java",
+            "room": null,
+            "sourceText": "Programming in Java"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Automata / Theory",
+            "room": null,
+            "sourceText": "Automata Theory"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "JAVA Lab",
+            "room": null,
+            "sourceText": "JAVA Lab"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Programming in JAVA Lab",
+            "room": "MAD Lab",
+            "sourceText": "Programming in JAVA Lab MAD Lab"
+          }
+        ]
+      },
+      {
+        "day": "FRIDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "DBMS",
+            "room": null,
+            "sourceText": "DBMS"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Automata / Theory",
+            "room": null,
+            "sourceText": "Automata Theory"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Professional / Elective-I",
+            "room": null,
+            "sourceText": "Professional Elective-I"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Computer / Networks",
+            "room": null,
+            "sourceText": "Computer Networks"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "DBMS Lab",
+            "room": null,
+            "sourceText": "DBMS Lab"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "DBMS Lab",
+            "room": "Computer Lab -3",
+            "sourceText": "DBMS Lab Computer Lab -3"
+          }
+        ]
+      }
+    ],
+    "courses": [
+      {
+        "code": "BCSF245T10",
+        "name": "Automata Theory",
+        "faculty": ""
+      },
+      {
+        "code": "BCSF245T20",
+        "name": "Computer Networks",
+        "faculty": "Dr.R.Sivaramakrishnan"
+      },
+      {
+        "code": "BCSF245T30",
+        "name": "Programming in Java",
+        "faculty": "Dr.M.Saraswathi"
+      },
+      {
+        "code": "BCSF245T40",
+        "name": "Database Management System (DBMS)",
+        "faculty": "Dr.D.Thamaraiselvi"
+      },
+      {
+        "code": "BCSF245EA0/ BCSF245EB0",
+        "name": "Professional Elective-I (Object Oriented Analysis and Design / Internet of Things)",
+        "faculty": ""
+      },
+      {
+        "code": "",
+        "name": "",
+        "faculty": "Ms.Hema Poorani.J"
+      },
+      {
+        "code": "BCSF245P60",
+        "name": "Computer Networks Lab",
+        "faculty": "Dr.M.Senthilkumaran"
+      },
+      {
+        "code": "BCSF245P70",
+        "name": "Programming in Java Lab",
+        "faculty": "Dr.M.Saraswathi"
+      },
+      {
+        "code": "BCSF245P80",
+        "name": "Database Management System Lab",
+        "faculty": "Mr.T.Prakash"
+      },
+      {
+        "code": "BCSF245AI1",
+        "name": "Natural Language Processing",
+        "faculty": "Dr.R.Prema"
+      },
+      {
+        "code": "BCSF245AI2",
+        "name": "Natural Language Processing Lab",
+        "faculty": "Dr.R.Prema"
+      },
+      {
+        "code": "BETF24MC05",
+        "name": "Yoga / Soft Skill",
+        "faculty": ""
+      }
+    ],
+    "source": "Class Time Table Jul 2026.pdf"
+  },
+  {
+    "id": "class-06",
+    "year": "III",
+    "semester": "V",
+    "section": "S4",
+    "classIncharge": "Dr.D.Thamaraiselvi",
+    "schedule": [
+      {
+        "day": "MONDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Natural / Language / Processing",
+            "room": null,
+            "sourceText": "Natural Language Processing"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Computer / Networks",
+            "room": null,
+            "sourceText": "Computer Networks"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Automata / Theory",
+            "room": null,
+            "sourceText": "Automata Theory"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Programming / in Java",
+            "room": null,
+            "sourceText": "Programming in Java"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "CN LAB",
+            "room": null,
+            "sourceText": "CN LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Computer Networks Lab",
+            "room": "Computer Lab -2",
+            "sourceText": "Computer Networks Lab Computer Lab -2"
+          }
+        ]
+      },
+      {
+        "day": "TUESDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Professional / Elective-I",
+            "room": null,
+            "sourceText": "Professional Elective-I"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Programming in JAVA Lab",
+            "room": "MAD Lab",
+            "sourceText": "Programming in JAVA Lab MAD Lab"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "DBMS",
+            "room": null,
+            "sourceText": "DBMS"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Natural / Language / Processing",
+            "room": null,
+            "sourceText": "Natural Language Processing"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "CI",
+            "room": null,
+            "sourceText": "CI"
+          }
+        ]
+      },
+      {
+        "day": "WEDNESDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "DBMS",
+            "room": null,
+            "sourceText": "DBMS"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Programming / in Java",
+            "room": null,
+            "sourceText": "Programming in Java"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Automata / Theory",
+            "room": null,
+            "sourceText": "Automata Theory"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Computer / Networks",
+            "room": null,
+            "sourceText": "Computer Networks"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "NLP Lab",
+            "room": null,
+            "sourceText": "NLP Lab"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "NLP Lab",
+            "room": "DELL Lab",
+            "sourceText": "NLP Lab DELL Lab"
+          }
+        ]
+      },
+      {
+        "day": "THURSDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Professional / Elective-I",
+            "room": null,
+            "sourceText": "Professional Elective-I"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "DBMS Lab",
+            "room": "Computer Lab -3",
+            "sourceText": "DBMS Lab Computer Lab -3"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "Programming / in Java",
+            "room": null,
+            "sourceText": "Programming in Java"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Automata / Theory",
+            "room": null,
+            "sourceText": "Automata Theory"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "YOGA",
+            "room": null,
+            "sourceText": "YOGA"
+          }
+        ]
+      },
+      {
+        "day": "FRIDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Automata / Theory",
+            "room": null,
+            "sourceText": "Automata Theory"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Natural / Language / Processing",
+            "room": null,
+            "sourceText": "Natural Language Processing"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Professional / Elective-I",
+            "room": null,
+            "sourceText": "Professional Elective-I"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "DBMS",
+            "room": null,
+            "sourceText": "DBMS"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "Computer / Networks",
+            "room": null,
+            "sourceText": "Computer Networks"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Soft Skill",
+            "room": null,
+            "sourceText": "Soft Skill"
+          }
+        ]
+      }
+    ],
+    "courses": [
+      {
+        "code": "BCSF245T10",
+        "name": "Automata Theory",
+        "faculty": ""
+      },
+      {
+        "code": "BCSF245T20",
+        "name": "Computer Networks",
+        "faculty": "Dr.M.Senthilkumaran"
+      },
+      {
+        "code": "BCSF245T30",
+        "name": "Programming in Java",
+        "faculty": "Dr.V.Geetha"
+      },
+      {
+        "code": "BCSF245T40",
+        "name": "Database Management System (DBMS)",
+        "faculty": "Dr.D.Thamaraiselvi"
+      },
+      {
+        "code": "BCSF245EA0/ BCSF245EB0",
+        "name": "Professional Elective-I (Object Oriented Analysis and Design / Internet of Things)",
+        "faculty": ""
+      },
+      {
+        "code": "",
+        "name": "",
+        "faculty": "Ms.Hema Poorani.J"
+      },
+      {
+        "code": "BCSF245P60",
+        "name": "Computer Networks Lab",
+        "faculty": "Dr.M.Senthilkumaran"
+      },
+      {
+        "code": "BCSF245P70",
+        "name": "Programming in Java Lab",
+        "faculty": "Dr.V.Geetha"
+      },
+      {
+        "code": "BCSF245P80",
+        "name": "Database Management System Lab",
+        "faculty": "Dr.D.Thamaraiselvi"
+      },
+      {
+        "code": "BCSF245AI1",
+        "name": "Natural Language Processing",
+        "faculty": "Dr.M.Gayathri"
+      },
+      {
+        "code": "BCSF245AI2",
+        "name": "Natural Language Processing Lab",
+        "faculty": "Dr.M.Gayathri"
+      },
+      {
+        "code": "BETF24MC05",
+        "name": "Yoga / Soft Skill",
+        "faculty": ""
+      }
+    ],
+    "source": "Class Time Table Jul 2026.pdf"
+  },
+  {
+    "id": "class-07",
+    "year": "III",
+    "semester": "V",
+    "section": "S5",
+    "classIncharge": "Mr.SureshkumarBhadram",
+    "schedule": [
+      {
+        "day": "MONDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Natural / Language / Processing",
+            "room": null,
+            "sourceText": "Natural Language Processing"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Professional / Elective-I",
+            "room": null,
+            "sourceText": "Professional Elective-I"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Automata / Theory",
+            "room": null,
+            "sourceText": "Automata Theory"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Professional / Elective-I",
+            "room": null,
+            "sourceText": "Professional Elective-I"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "YOGA",
+            "room": null,
+            "sourceText": "YOGA"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "DBMS",
+            "room": null,
+            "sourceText": "DBMS"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "Programming / in Java",
+            "room": null,
+            "sourceText": "Programming in Java"
+          }
+        ]
+      },
+      {
+        "day": "TUESDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Computer / Networks",
+            "room": null,
+            "sourceText": "Computer Networks"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Automata / Theory",
+            "room": null,
+            "sourceText": "Automata Theory"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "DBMS",
+            "room": null,
+            "sourceText": "DBMS"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Natural / Language / Processing",
+            "room": null,
+            "sourceText": "Natural Language Processing"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "CN LAB",
+            "room": null,
+            "sourceText": "CN LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Computer Networks Lab",
+            "room": "Computer Lab -2",
+            "sourceText": "Computer Networks Lab Computer Lab -2"
+          }
+        ]
+      },
+      {
+        "day": "WEDNESDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Professional / Elective-I",
+            "room": null,
+            "sourceText": "Professional Elective-I"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "DBMS Lab",
+            "room": "Computer Lab -3",
+            "sourceText": "DBMS Lab Computer Lab -3"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "CI",
+            "room": null,
+            "sourceText": "CI"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Programming / in Java",
+            "room": null,
+            "sourceText": "Programming in Java"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "DBMS",
+            "room": null,
+            "sourceText": "DBMS"
+          }
+        ]
+      },
+      {
+        "day": "THURSDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Automata / Theory",
+            "room": null,
+            "sourceText": "Automata Theory"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Data Visualization Lab",
+            "room": "DELL Lab",
+            "sourceText": "Data Visualization Lab DELL Lab"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "Computer / Networks",
+            "room": null,
+            "sourceText": "Computer Networks"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Soft Skill",
+            "room": null,
+            "sourceText": "Soft Skill"
+          }
+        ]
+      },
+      {
+        "day": "FRIDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Programming / in Java",
+            "room": null,
+            "sourceText": "Programming in Java"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Natural / Language / Processing",
+            "room": null,
+            "sourceText": "Natural Language Processing"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Computer / Networks",
+            "room": null,
+            "sourceText": "Computer Networks"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Automata / Theory",
+            "room": null,
+            "sourceText": "Automata Theory"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "JAVA Lab",
+            "room": null,
+            "sourceText": "JAVA Lab"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Programming in JAVA Lab",
+            "room": "MAD Lab",
+            "sourceText": "Programming in JAVA Lab MAD Lab"
+          }
+        ]
+      }
+    ],
+    "courses": [
+      {
+        "code": "BCSF245T10",
+        "name": "Automata Theory",
+        "faculty": ""
+      },
+      {
+        "code": "BCSF245T20",
+        "name": "Computer Networks",
+        "faculty": "Mr.B.Karthikeyan"
+      },
+      {
+        "code": "BCSF245T30",
+        "name": "Programming in Java",
+        "faculty": "Dr.V.Geetha"
+      },
+      {
+        "code": "BCSF245T40",
+        "name": "Database Management System(DBMS)",
+        "faculty": "Ms.Hema Poorani.J"
+      },
+      {
+        "code": "BCSF245EA0/ BCSF245EB0",
+        "name": "Professional Elective-I (Object Oriented Analysis and Design / Internet of Things)",
+        "faculty": ""
+      },
+      {
+        "code": "",
+        "name": "",
+        "faculty": "Ms.Hema Poorani.J"
+      },
+      {
+        "code": "BCSF245P60",
+        "name": "Computer Networks Lab",
+        "faculty": "Mr.B.Karthikeyan"
+      },
+      {
+        "code": "BCSF245P70",
+        "name": "Programming in Java Lab",
+        "faculty": "Dr.V.Geetha"
+      },
+      {
+        "code": "BCSF245P80",
+        "name": "Database Management System Lab",
+        "faculty": "Ms.Hema Poorani.J"
+      },
+      {
+        "code": "BCSF245DS1",
+        "name": "Natural Language Processing",
+        "faculty": "Ms.R.Radhika"
+      },
+      {
+        "code": "BCSF245DS2",
+        "name": "Data Visualization lab",
+        "faculty": "Dr.C.K.Gomathy"
+      },
+      {
+        "code": "BETF24MC05",
+        "name": "Yoga / Soft Skill",
+        "faculty": ""
+      }
+    ],
+    "source": "Class Time Table Jul 2026.pdf"
+  },
+  {
+    "id": "class-08",
+    "year": "III",
+    "semester": "V",
+    "section": "S6",
+    "classIncharge": "Mr.E.Sankar",
+    "schedule": [
+      {
+        "day": "MONDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "DBMS",
+            "room": null,
+            "sourceText": "DBMS"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Professional / Elective-I",
+            "room": null,
+            "sourceText": "Professional Elective-I"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Computer / Networks",
+            "room": null,
+            "sourceText": "Computer Networks"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Professional / Elective-I",
+            "room": null,
+            "sourceText": "Professional Elective-I"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "NLP LAB \\ / Computer",
+            "room": "Lab-3",
+            "sourceText": "NLP LAB \\ Computer Lab-3"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Data Visualization Lab",
+            "room": "DELL Lab",
+            "sourceText": "Data Visualization Lab DELL Lab"
+          }
+        ]
+      },
+      {
+        "day": "TUESDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Natural / Language / Processing",
+            "room": null,
+            "sourceText": "Natural Language Processing"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "DBMS Lab",
+            "room": "Computer Lab -3",
+            "sourceText": "DBMS Lab Computer Lab -3"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "CI",
+            "room": null,
+            "sourceText": "CI"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Automata / Theory",
+            "room": null,
+            "sourceText": "Automata Theory"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "YOGA",
+            "room": null,
+            "sourceText": "YOGA"
+          }
+        ]
+      },
+      {
+        "day": "WEDNESDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Professional / Elective-I",
+            "room": null,
+            "sourceText": "Professional Elective-I"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Programming / in Java",
+            "room": null,
+            "sourceText": "Programming in Java"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "DBMS",
+            "room": null,
+            "sourceText": "DBMS"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Automata / Theory",
+            "room": null,
+            "sourceText": "Automata Theory"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "CN LAB",
+            "room": null,
+            "sourceText": "CN LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Computer Networks Lab",
+            "room": "Computer Lab -2",
+            "sourceText": "Computer Networks Lab Computer Lab -2"
+          }
+        ]
+      },
+      {
+        "day": "THURSDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Natural / Language / Processing",
+            "room": null,
+            "sourceText": "Natural Language Processing"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Programming in JAVA Lab",
+            "room": "MAD Lab",
+            "sourceText": "Programming in JAVA Lab MAD Lab"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "Automata / Theory",
+            "room": null,
+            "sourceText": "Automata Theory"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Programming / in Java",
+            "room": null,
+            "sourceText": "Programming in Java"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "Computer / Networks",
+            "room": null,
+            "sourceText": "Computer Networks"
+          }
+        ]
+      },
+      {
+        "day": "FRIDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Computer / Networks",
+            "room": null,
+            "sourceText": "Computer Networks"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Automata / Theory",
+            "room": null,
+            "sourceText": "Automata Theory"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "DBMS",
+            "room": null,
+            "sourceText": "DBMS"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Soft Skill",
+            "room": null,
+            "sourceText": "Soft Skill"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Natural / Language / Processing",
+            "room": null,
+            "sourceText": "Natural Language Processing"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "Programming / in Java",
+            "room": null,
+            "sourceText": "Programming in Java"
+          }
+        ]
+      }
+    ],
+    "courses": [
+      {
+        "code": "BCSF245T10",
+        "name": "Automata Theory",
+        "faculty": ""
+      },
+      {
+        "code": "BCSF245T20",
+        "name": "Computer Networks",
+        "faculty": "Mr.B.Karthikeyan"
+      },
+      {
+        "code": "BCSF245T30",
+        "name": "Programming in Java",
+        "faculty": "Mr.E.Sankar"
+      },
+      {
+        "code": "BCSF245T40",
+        "name": "Database Management System (DBMS)",
+        "faculty": "Mr.D Jeevan Kumar"
+      },
+      {
+        "code": "BCSF245EA0/ BCSF245EB0",
+        "name": "Professional Elective-I (Object Oriented Analysis and Design / Internet of Things)",
+        "faculty": ""
+      },
+      {
+        "code": "",
+        "name": "",
+        "faculty": "Ms.Hema Poorani.J"
+      },
+      {
+        "code": "BCSF245P60",
+        "name": "Computer Networks Lab",
+        "faculty": "Mr.B.Karthikeyan"
+      },
+      {
+        "code": "BCSF245P70",
+        "name": "Programming in Java Lab",
+        "faculty": "Mr.E.Sankar"
+      },
+      {
+        "code": "BCSF245P80",
+        "name": "Database Management System Lab",
+        "faculty": "Mr.D Jeevan Kumar"
+      },
+      {
+        "code": "BCSF245DS1",
+        "name": "Natural Language Processing",
+        "faculty": "Mr.P.Ramesh Chandra"
+      },
+      {
+        "code": "BCSF245DS2",
+        "name": "Data Visualization lab",
+        "faculty": "Mr.P.Ramesh Chandra"
+      },
+      {
+        "code": "BETF24MC05",
+        "name": "Yoga / Soft Skill",
+        "faculty": ""
+      }
+    ],
+    "source": "Class Time Table Jul 2026.pdf"
+  },
+  {
+    "id": "class-09",
+    "year": "III",
+    "semester": "V",
+    "section": "S7- CSE",
+    "classIncharge": "Dr.N.C.A.Boovarahan",
+    "schedule": [
+      {
+        "day": "MONDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Computer / Networks",
+            "room": null,
+            "sourceText": "Computer Networks"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Professional / Elective-I",
+            "room": null,
+            "sourceText": "Professional Elective-I"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Automata / Theory",
+            "room": null,
+            "sourceText": "Automata Theory"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Professional / Elective-I",
+            "room": null,
+            "sourceText": "Professional Elective-I"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "NLP / DV LAB /",
+            "room": null,
+            "sourceText": "NLP / DV LAB /"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Database & Network Security / Lab",
+            "room": "Lab-3 / DELL Lab /MAD Lab",
+            "sourceText": "Database & Network Security Lab Lab-3 / DELL Lab /MAD Lab"
+          }
+        ]
+      },
+      {
+        "day": "TUESDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Honors",
+            "room": null,
+            "sourceText": "Honors"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Programming / in Java",
+            "room": null,
+            "sourceText": "Programming in Java"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Computer / Networks",
+            "room": null,
+            "sourceText": "Computer Networks"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Soft Skill",
+            "room": null,
+            "sourceText": "Soft Skill"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Automata / Theory",
+            "room": null,
+            "sourceText": "Automata Theory"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "DBMS",
+            "room": null,
+            "sourceText": "DBMS"
+          }
+        ]
+      },
+      {
+        "day": "WEDNESDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Professional / Elective-I",
+            "room": null,
+            "sourceText": "Professional Elective-I"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Computer Networks Lab",
+            "room": "Computer Lab -2",
+            "sourceText": "Computer Networks Lab Computer Lab -2"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "Automata / Theory",
+            "room": null,
+            "sourceText": "Automata Theory"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Programming / in Java",
+            "room": null,
+            "sourceText": "Programming in Java"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "CI",
+            "room": null,
+            "sourceText": "CI"
+          }
+        ]
+      },
+      {
+        "day": "THURSDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Honors",
+            "room": null,
+            "sourceText": "Honors"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Automata / Theory",
+            "room": null,
+            "sourceText": "Automata Theory"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "DBMS",
+            "room": null,
+            "sourceText": "DBMS"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Computer / Networks",
+            "room": null,
+            "sourceText": "Computer Networks"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "DBMS Lab",
+            "room": null,
+            "sourceText": "DBMS Lab"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "DBMS Lab",
+            "room": "Computer Lab -3",
+            "sourceText": "DBMS Lab Computer Lab -3"
+          }
+        ]
+      },
+      {
+        "day": "FRIDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "DBMS",
+            "room": null,
+            "sourceText": "DBMS"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Programming in JAVA Lab",
+            "room": "MAD Lab",
+            "sourceText": "Programming in JAVA Lab MAD Lab"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "YOGA",
+            "room": null,
+            "sourceText": "YOGA"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Honors",
+            "room": null,
+            "sourceText": "Honors"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "Programming / in Java",
+            "room": null,
+            "sourceText": "Programming in Java"
+          }
+        ]
+      }
+    ],
+    "courses": [
+      {
+        "code": "BCSF245T10",
+        "name": "Automata Theory",
+        "faculty": ""
+      },
+      {
+        "code": "BCSF245T20",
+        "name": "Computer Networks",
+        "faculty": "Dr.N.C.A.Boovarahan"
+      },
+      {
+        "code": "BCSF245T30",
+        "name": "Programming in Java",
+        "faculty": "Dr.M.Saraswathi"
+      },
+      {
+        "code": "BCSF245T40",
+        "name": "Database Management System (DBMS)",
+        "faculty": "Mr.D Jeevan Kumar"
+      },
+      {
+        "code": "BCSF245EA0/ BCSF245EB0",
+        "name": "Professional Elective-I (Object Oriented Analysis and Design / Internet of Things)",
+        "faculty": ""
+      },
+      {
+        "code": "BCSF245DS1",
+        "name": "Natural Language Processing",
+        "faculty": ""
+      },
+      {
+        "code": "BCSF245DS2",
+        "name": "Data Visualization lab",
+        "faculty": ""
+      },
+      {
+        "code": "BETF24MC05",
+        "name": "Soft Skill",
+        "faculty": ""
+      },
+      {
+        "code": "BCSF245P60",
+        "name": "Computer Networks Lab",
+        "faculty": "Dr.N.C.A.Boovarahan"
+      },
+      {
+        "code": "BCSF245P70",
+        "name": "Programming in Java Lab",
+        "faculty": "Dr.M.Saraswathi"
+      },
+      {
+        "code": "BCSF245P80",
+        "name": "Database Management System Lab",
+        "faculty": "Mr.D Jeevan Kumar"
+      },
+      {
+        "code": "BCSF245AI1",
+        "name": "Natural Language Processing",
+        "faculty": ""
+      },
+      {
+        "code": "BCSF245AI2",
+        "name": "Natural Language Processing Lab",
+        "faculty": ""
+      },
+      {
+        "code": "BCSF245CS1",
+        "name": "Database security",
+        "faculty": "Mr.V.Balu"
+      },
+      {
+        "code": "BCSF245CS2",
+        "name": "Database & Network Security Lab",
+        "faculty": "Mr.E.Sankar"
+      },
+      {
+        "code": "BETF24MC05",
+        "name": "Architecting smart IOT Devices",
+        "faculty": "Dr.R.Govindarajan"
+      },
+      {
+        "code": "",
+        "name": "Yoga",
+        "faculty": ""
+      }
+    ],
+    "source": "Class Time Table Jul 2026.pdf"
+  },
+  {
+    "id": "class-10",
+    "year": "III",
+    "semester": "V",
+    "section": "S7- IT",
+    "classIncharge": "Dr.N.C.A.Boovarahan",
+    "schedule": [
+      {
+        "day": "MONDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Computer / Networks",
+            "room": null,
+            "sourceText": "Computer Networks"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Principle of / Communication",
+            "room": null,
+            "sourceText": "Principle of Communication"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Automata / Theory",
+            "room": null,
+            "sourceText": "Automata Theory"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Principle of / Communication",
+            "room": null,
+            "sourceText": "Principle of Communication"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "NLP / DV LAB /",
+            "room": null,
+            "sourceText": "NLP / DV LAB /"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Database & Network Security / Lab",
+            "room": "Lab-3 / DELL Lab /MAD Lab",
+            "sourceText": "Database & Network Security Lab Lab-3 / DELL Lab /MAD Lab"
+          }
+        ]
+      },
+      {
+        "day": "TUESDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Honors",
+            "room": null,
+            "sourceText": "Honors"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Programming / in Java",
+            "room": null,
+            "sourceText": "Programming in Java"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Computer / Networks",
+            "room": null,
+            "sourceText": "Computer Networks"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Soft Skill",
+            "room": null,
+            "sourceText": "Soft Skill"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Automata / Theory",
+            "room": null,
+            "sourceText": "Automata Theory"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "DBMS",
+            "room": null,
+            "sourceText": "DBMS"
+          }
+        ]
+      },
+      {
+        "day": "WEDNESDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Principle of / Communication",
+            "room": null,
+            "sourceText": "Principle of Communication"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "IT Workshop (SCi Lab)",
+            "room": "Computer Lab - 3",
+            "sourceText": "IT Workshop (SCi Lab) Computer Lab - 3"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "Automata / Theory",
+            "room": null,
+            "sourceText": "Automata Theory"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Programming / in Java",
+            "room": null,
+            "sourceText": "Programming in Java"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "CI",
+            "room": null,
+            "sourceText": "CI"
+          }
+        ]
+      },
+      {
+        "day": "THURSDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Honors",
+            "room": null,
+            "sourceText": "Honors"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Automata / Theory",
+            "room": null,
+            "sourceText": "Automata Theory"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "DBMS",
+            "room": null,
+            "sourceText": "DBMS"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Computer / Networks",
+            "room": null,
+            "sourceText": "Computer Networks"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "DBMS Lab",
+            "room": null,
+            "sourceText": "DBMS Lab"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "DBMS Lab",
+            "room": "Computer Lab -3",
+            "sourceText": "DBMS Lab Computer Lab -3"
+          }
+        ]
+      },
+      {
+        "day": "FRIDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "DBMS",
+            "room": null,
+            "sourceText": "DBMS"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Programming in JAVA Lab",
+            "room": "MAD Lab",
+            "sourceText": "Programming in JAVA Lab MAD Lab"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "YOGA",
+            "room": null,
+            "sourceText": "YOGA"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Honors",
+            "room": null,
+            "sourceText": "Honors"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "Programming / in Java",
+            "room": null,
+            "sourceText": "Programming in Java"
+          }
+        ]
+      }
+    ],
+    "courses": [
+      {
+        "code": "BITF245T10",
+        "name": "Automata Theory",
+        "faculty": ""
+      },
+      {
+        "code": "BITF245T20",
+        "name": "Principle of Communication",
+        "faculty": ""
+      },
+      {
+        "code": "BITF245T30",
+        "name": "Programming in Java",
+        "faculty": "Dr.M.Saraswathi"
+      },
+      {
+        "code": "BITF245T40",
+        "name": "Database Management System (DBMS)",
+        "faculty": "Mr.D Jeevan Kumar"
+      },
+      {
+        "code": "BITF245T50",
+        "name": "Data Communication and Networks",
+        "faculty": "Dr.N.C.A.Boovarahan"
+      },
+      {
+        "code": "BCSF245DS1",
+        "name": "Natural Language Processing*",
+        "faculty": "Mr.P.Ramesh Chandra"
+      },
+      {
+        "code": "BCSF245DS2",
+        "name": "Data Visualization lab*",
+        "faculty": "Mr.P.Ramesh Chandra"
+      },
+      {
+        "code": "BETF24MC05",
+        "name": "Soft Skill / Yoga",
+        "faculty": ""
+      },
+      {
+        "code": "BITF245P60",
+        "name": "IT Workshop (SCi Lab)",
+        "faculty": "Mr.P.Ramesh Chandra"
+      },
+      {
+        "code": "BITF245P70",
+        "name": "Java Programming Lab",
+        "faculty": "Dr.M.Saraswathi"
+      },
+      {
+        "code": "BITF245P80",
+        "name": "Database Management System Lab",
+        "faculty": "Mr.D Jeevan Kumar"
+      },
+      {
+        "code": "BCSF245AI1",
+        "name": "Natural Language Processing*",
+        "faculty": "Mr.P.Ramesh Chandra"
+      },
+      {
+        "code": "BCSF245AI2",
+        "name": "Natural Language Processing Lab*",
+        "faculty": ""
+      },
+      {
+        "code": "BCSF245CS1",
+        "name": "Database security*",
+        "faculty": "Mr.V.Balu"
+      },
+      {
+        "code": "BCSF245CS2",
+        "name": "Database & Network Security Lab*",
+        "faculty": "Mr.E.Sankar"
+      },
+      {
+        "code": "BETF24MC05",
+        "name": "Architecting smart IOT Devices*",
+        "faculty": "Dr.R.Govindarajan"
+      }
+    ],
+    "source": "Class Time Table Jul 2026.pdf"
+  },
+  {
+    "id": "class-11",
+    "year": "II",
+    "semester": "III",
+    "section": "S1",
+    "classIncharge": "Mr.D Jeevan Kumar",
+    "schedule": [
+      {
+        "day": "MONDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Fundamentals / of ML",
+            "room": null,
+            "sourceText": "Fundamentals of ML"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Data Structures / and Algorithms",
+            "room": null,
+            "sourceText": "Data Structures and Algorithms"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Computer / Organization / & Architecture",
+            "room": null,
+            "sourceText": "Computer Organization & Architecture"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "CI",
+            "room": null,
+            "sourceText": "CI"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "DLD \\ COA / LAB",
+            "room": null,
+            "sourceText": "DLD \\ COA LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Digital Logic Design / / Computer Organization &",
+            "room": "Architecture Computer Lab-4",
+            "sourceText": "Digital Logic Design / Computer Organization & Architecture Computer Lab-4"
+          }
+        ]
+      },
+      {
+        "day": "TUESDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Computer / Organization / & Architecture",
+            "room": null,
+            "sourceText": "Computer Organization & Architecture"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Probability / and Statistics",
+            "room": null,
+            "sourceText": "Probability and Statistics"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Digital Logic / Design",
+            "room": null,
+            "sourceText": "Digital Logic Design"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Fundamentals of / ML",
+            "room": null,
+            "sourceText": "Fundamentals of ML"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "DLD \\ COA / LAB",
+            "room": null,
+            "sourceText": "DLD \\ COA LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Digital Logic Design / / Computer Organization &",
+            "room": "Architecture Computer Lab-4",
+            "sourceText": "Digital Logic Design / Computer Organization & Architecture Computer Lab-4"
+          }
+        ]
+      },
+      {
+        "day": "WEDNESDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Data Structures and Algorithms",
+            "room": "Computer Lab - 1",
+            "sourceText": "Data Structures and Algorithms Computer Lab - 1"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Intelligent / Systems",
+            "room": null,
+            "sourceText": "Intelligent Systems"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "Probability / and Statistics",
+            "room": null,
+            "sourceText": "Probability and Statistics"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Data Structures / and Algorithms",
+            "room": null,
+            "sourceText": "Data Structures and Algorithms"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "YOGA",
+            "room": null,
+            "sourceText": "YOGA"
+          }
+        ]
+      },
+      {
+        "day": "THURSDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Probability and / Statistics",
+            "room": null,
+            "sourceText": "Probability and Statistics"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Fundamentals / of ML",
+            "room": null,
+            "sourceText": "Fundamentals of ML"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Data Structures / and Algorithms",
+            "room": null,
+            "sourceText": "Data Structures and Algorithms"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Digital Logic / Design",
+            "room": null,
+            "sourceText": "Digital Logic Design"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "FML LAB",
+            "room": null,
+            "sourceText": "FML LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Fundamentals of Machine / Learning",
+            "room": "Computer Lab - 5",
+            "sourceText": "Fundamentals of Machine Learning Computer Lab - 5"
+          }
+        ]
+      },
+      {
+        "day": "FRIDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Digital Logic / Design",
+            "room": null,
+            "sourceText": "Digital Logic Design"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Probability / and Statistics",
+            "room": null,
+            "sourceText": "Probability and Statistics"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Computer / Organization / & Architecture",
+            "room": null,
+            "sourceText": "Computer Organization & Architecture"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Soft Skills-II",
+            "room": null,
+            "sourceText": "Soft Skills-II"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Intelligent / Systems",
+            "room": null,
+            "sourceText": "Intelligent Systems"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "Intelligent / Systems",
+            "room": null,
+            "sourceText": "Intelligent Systems"
+          }
+        ]
+      }
+    ],
+    "courses": [
+      {
+        "code": "CBSMA26311",
+        "name": "Probability and Statistics",
+        "faculty": ""
+      },
+      {
+        "code": "BCSF26322",
+        "name": "Digital Logic Design",
+        "faculty": "Dr.S.Vijayaraghavan"
+      },
+      {
+        "code": "BCSF26323",
+        "name": "Computer Organization and Architecture",
+        "faculty": "Dr.N.C.A.Boovarahan/ Dr.T.Lakshmibai"
+      },
+      {
+        "code": "BCSF26324",
+        "name": "Data Structures and Algorithms",
+        "faculty": "Mr.SureshkumarBhadram"
+      },
+      {
+        "code": "BCSF26325",
+        "name": "Fundamentals of Machine Learning",
+        "faculty": "Mr.D.Harshawardhan"
+      },
+      {
+        "code": "ML26311",
+        "name": "Intelligent Systems: Principles and practice",
+        "faculty": "Mr.D Jeevan Kumar"
+      },
+      {
+        "code": "DS26311",
+        "name": "AI and Machine Learning",
+        "faculty": "-"
+      },
+      {
+        "code": "CS26311",
+        "name": "Cyber Space Operations",
+        "faculty": "Dr.C.K.Gomathy"
+      },
+      {
+        "code": "IT26311",
+        "name": "Introduction to Internet of Things",
+        "faculty": "-"
+      },
+      {
+        "code": "BHSF26316",
+        "name": "Humanities (Soft Skills-II)",
+        "faculty": ""
+      }
+    ],
+    "source": "Class Time Table Jul 2026.pdf"
+  },
+  {
+    "id": "class-12",
+    "year": "II",
+    "semester": "III",
+    "section": "S2",
+    "classIncharge": "Dr.M.Gayathri",
+    "schedule": [
+      {
+        "day": "MONDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Fundamentals / of ML",
+            "room": null,
+            "sourceText": "Fundamentals of ML"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Probability / and Statistics",
+            "room": null,
+            "sourceText": "Probability and Statistics"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Fundamentals / of ML",
+            "room": null,
+            "sourceText": "Fundamentals of ML"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Data Structures / and Algorithms",
+            "room": null,
+            "sourceText": "Data Structures and Algorithms"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "Computer / Organization / & Architecture",
+            "room": null,
+            "sourceText": "Computer Organization & Architecture"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Digital Logic / Design",
+            "room": null,
+            "sourceText": "Digital Logic Design"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "YOGA",
+            "room": null,
+            "sourceText": "YOGA"
+          }
+        ]
+      },
+      {
+        "day": "TUESDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Probability / and Statistics",
+            "room": null,
+            "sourceText": "Probability and Statistics"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Digital Logic / Design",
+            "room": null,
+            "sourceText": "Digital Logic Design"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Data Structures / and Algorithms",
+            "room": null,
+            "sourceText": "Data Structures and Algorithms"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "CI",
+            "room": null,
+            "sourceText": "CI"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "DSA Lab",
+            "room": null,
+            "sourceText": "DSA Lab"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Data Structures and Algorithms",
+            "room": "Computer Lab - 1",
+            "sourceText": "Data Structures and Algorithms Computer Lab - 1"
+          }
+        ]
+      },
+      {
+        "day": "WEDNESDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Digital Logic / Design",
+            "room": null,
+            "sourceText": "Digital Logic Design"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Computer / Organization / & Architecture",
+            "room": null,
+            "sourceText": "Computer Organization & Architecture"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Fundamentals / of ML",
+            "room": null,
+            "sourceText": "Fundamentals of ML"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Intelligent / Systems",
+            "room": null,
+            "sourceText": "Intelligent Systems"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "FML LAB",
+            "room": null,
+            "sourceText": "FML LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Fundamentals of Machine / Learning",
+            "room": "Computer Lab - 5",
+            "sourceText": "Fundamentals of Machine Learning Computer Lab - 5"
+          }
+        ]
+      },
+      {
+        "day": "THURSDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Computer / Organization / & Architecture",
+            "room": null,
+            "sourceText": "Computer Organization & Architecture"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Digital Logic Design / / Computer Organization & Architecture",
+            "room": "Computer Lab-4",
+            "sourceText": "Digital Logic Design / Computer Organization & Architecture Computer Lab-4"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "Data Structures / and Algorithms",
+            "room": null,
+            "sourceText": "Data Structures and Algorithms"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Soft Skills-II",
+            "room": null,
+            "sourceText": "Soft Skills-II"
+          }
+        ]
+      },
+      {
+        "day": "FRIDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Probability / and Statistics",
+            "room": null,
+            "sourceText": "Probability and Statistics"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Digital Logic Design / / Computer Organization & Architecture",
+            "room": "Computer Lab-4",
+            "sourceText": "Digital Logic Design / Computer Organization & Architecture Computer Lab-4"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "Probability / and Statistics",
+            "room": null,
+            "sourceText": "Probability and Statistics"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Intelligent / Systems",
+            "room": null,
+            "sourceText": "Intelligent Systems"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "Intelligent / Systems",
+            "room": null,
+            "sourceText": "Intelligent Systems"
+          }
+        ]
+      }
+    ],
+    "courses": [
+      {
+        "code": "CBSMA26311",
+        "name": "Probability and Statistics",
+        "faculty": ""
+      },
+      {
+        "code": "BCSF26322",
+        "name": "Digital Logic Design",
+        "faculty": "Dr.J.Vinothkumar"
+      },
+      {
+        "code": "BCSF26323",
+        "name": "Computer Organization and Architecture",
+        "faculty": "Mr.R.Manikkavasagam/ Mrs. T.Bhuvaneswari"
+      },
+      {
+        "code": "BCSF26324",
+        "name": "Data Structures and Algorithms",
+        "faculty": "Mr.SureshkumarBhadram"
+      },
+      {
+        "code": "BCSF26325",
+        "name": "Fundamentals of Machine Learning",
+        "faculty": "Dr.R.Sivaramakrishnan"
+      },
+      {
+        "code": "ML26311",
+        "name": "Intelligent Systems: Principles and practice",
+        "faculty": "Dr.M.Gayathri"
+      },
+      {
+        "code": "DS26311",
+        "name": "AI and Machine Learning",
+        "faculty": "-"
+      },
+      {
+        "code": "CS26311",
+        "name": "Cyber Space Operations",
+        "faculty": "Dr.C.K.Gomathy"
+      },
+      {
+        "code": "IT26311",
+        "name": "Introduction to Internet of Things",
+        "faculty": "-"
+      },
+      {
+        "code": "BHSF26316",
+        "name": "Humanities (Soft Skills-II)",
+        "faculty": ""
+      }
+    ],
+    "source": "Class Time Table Jul 2026.pdf"
+  },
+  {
+    "id": "class-13",
+    "year": "II",
+    "semester": "III",
+    "section": "S3",
+    "classIncharge": "Ms.R.Radhika",
+    "schedule": [
+      {
+        "day": "MONDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Digital Logic / Design",
+            "room": null,
+            "sourceText": "Digital Logic Design"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Probability / and Statistics",
+            "room": null,
+            "sourceText": "Probability and Statistics"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Fundamentals / of ML",
+            "room": null,
+            "sourceText": "Fundamentals of ML"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Data Structures / and Algorithms",
+            "room": null,
+            "sourceText": "Data Structures and Algorithms"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "DSA Lab",
+            "room": null,
+            "sourceText": "DSA Lab"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Data Structures and Algorithms",
+            "room": "Computer Lab - 1",
+            "sourceText": "Data Structures and Algorithms Computer Lab - 1"
+          }
+        ]
+      },
+      {
+        "day": "TUESDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Fundamentals / of ML",
+            "room": null,
+            "sourceText": "Fundamentals of ML"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Digital Logic Design / / Computer Organization & Architecture",
+            "room": "Computer Lab-4",
+            "sourceText": "Digital Logic Design / Computer Organization & Architecture Computer Lab-4"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "Probability / and Statistics",
+            "room": null,
+            "sourceText": "Probability and Statistics"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Computer / Organization / & Architecture",
+            "room": null,
+            "sourceText": "Computer Organization & Architecture"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "YOGA",
+            "room": null,
+            "sourceText": "YOGA"
+          }
+        ]
+      },
+      {
+        "day": "WEDNESDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Probability / and Statistics",
+            "room": null,
+            "sourceText": "Probability and Statistics"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Digital Logic / Design",
+            "room": null,
+            "sourceText": "Digital Logic Design"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Data Structures / and Algorithms",
+            "room": null,
+            "sourceText": "Data Structures and Algorithms"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "*Honors",
+            "room": null,
+            "sourceText": "*Honors"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "CI",
+            "room": null,
+            "sourceText": "CI"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Soft Skills-II",
+            "room": null,
+            "sourceText": "Soft Skills-II"
+          }
+        ]
+      },
+      {
+        "day": "THURSDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Computer / Organization / & Architecture",
+            "room": null,
+            "sourceText": "Computer Organization & Architecture"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Fundamentals of Machine Learning",
+            "room": "Computer Lab - 5",
+            "sourceText": "Fundamentals of Machine Learning Computer Lab - 5"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "Computer / Organization / & Architecture",
+            "room": null,
+            "sourceText": "Computer Organization & Architecture"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Data Structures / and Algorithms",
+            "room": null,
+            "sourceText": "Data Structures and Algorithms"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "*Honors",
+            "room": null,
+            "sourceText": "*Honors"
+          }
+        ]
+      },
+      {
+        "day": "FRIDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "*Honors",
+            "room": null,
+            "sourceText": "*Honors"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Probability / and Statistics",
+            "room": null,
+            "sourceText": "Probability and Statistics"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Digital Logic / Design",
+            "room": null,
+            "sourceText": "Digital Logic Design"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Fundamentals / of ML",
+            "room": null,
+            "sourceText": "Fundamentals of ML"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "DLD \\ COA LAB",
+            "room": null,
+            "sourceText": "DLD \\ COA LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Digital Logic Design / / Computer Organization &",
+            "room": "Architecture Computer Lab-4",
+            "sourceText": "Digital Logic Design / Computer Organization & Architecture Computer Lab-4"
+          }
+        ]
+      }
+    ],
+    "courses": [
+      {
+        "code": "CBSMA26311",
+        "name": "Probability and Statistics",
+        "faculty": ""
+      },
+      {
+        "code": "BCSF26322",
+        "name": "Digital Logic Design",
+        "faculty": "Dr.S.Selvakumar"
+      },
+      {
+        "code": "BCSF26323",
+        "name": "Computer Organization and Architecture",
+        "faculty": "Dr.T.Sundar/ Mrs.T.Bhuvaneswari"
+      },
+      {
+        "code": "BCSF26324",
+        "name": "Data Structures and Algorithms",
+        "faculty": "Dr.D.Thamaraiselvi"
+      },
+      {
+        "code": "BCSF26325",
+        "name": "Fundamentals of Machine Learning",
+        "faculty": "Ms.R.Radhika"
+      },
+      {
+        "code": "ML26311",
+        "name": "Intelligent Systems: Principles and practice*",
+        "faculty": "Ms.R.Preethi"
+      },
+      {
+        "code": "DS26311",
+        "name": "AI and Machine Learning*",
+        "faculty": "Ms.R.Rajalakshmi"
+      },
+      {
+        "code": "CS26311",
+        "name": "Cyber Space Operations",
+        "faculty": "-"
+      },
+      {
+        "code": "IT26311",
+        "name": "Introduction to Internet of Things",
+        "faculty": "-"
+      },
+      {
+        "code": "BHSF26316",
+        "name": "Humanities (Soft Skills-II)",
+        "faculty": ""
+      }
+    ],
+    "source": "Class Time Table Jul 2026.pdf"
+  },
+  {
+    "id": "class-14",
+    "year": "II",
+    "semester": "III",
+    "section": "S4",
+    "classIncharge": "Ms.R.Preethi",
+    "schedule": [
+      {
+        "day": "MONDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Probability / and Statistics",
+            "room": null,
+            "sourceText": "Probability and Statistics"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Data Structures and Algorithms",
+            "room": "Computer Lab - 1",
+            "sourceText": "Data Structures and Algorithms Computer Lab - 1"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "*Honors",
+            "room": null,
+            "sourceText": "*Honors"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Digital Logic / Design",
+            "room": null,
+            "sourceText": "Digital Logic Design"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "CI",
+            "room": null,
+            "sourceText": "CI"
+          }
+        ]
+      },
+      {
+        "day": "TUESDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Digital Logic / Design",
+            "room": null,
+            "sourceText": "Digital Logic Design"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "*Honors",
+            "room": null,
+            "sourceText": "*Honors"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Computer / Organization / & Architecture",
+            "room": null,
+            "sourceText": "Computer Organization & Architecture"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Fundamentals / of ML",
+            "room": null,
+            "sourceText": "Fundamentals of ML"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "Probability / and Statistics",
+            "room": null,
+            "sourceText": "Probability and Statistics"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Soft Skills-II",
+            "room": null,
+            "sourceText": "Soft Skills-II"
+          }
+        ]
+      },
+      {
+        "day": "WEDNESDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Computer / Organization / & Architecture",
+            "room": null,
+            "sourceText": "Computer Organization & Architecture"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Digital Logic Design / / Computer Organization & Architecture",
+            "room": "Computer Lab-4",
+            "sourceText": "Digital Logic Design / Computer Organization & Architecture Computer Lab-4"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "YOGA",
+            "room": null,
+            "sourceText": "YOGA"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Probability / and Statistics",
+            "room": null,
+            "sourceText": "Probability and Statistics"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "Data Structures / and Algorithms",
+            "room": null,
+            "sourceText": "Data Structures and Algorithms"
+          }
+        ]
+      },
+      {
+        "day": "THURSDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Data Structures / and Algorithms",
+            "room": null,
+            "sourceText": "Data Structures and Algorithms"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Digital Logic / Design",
+            "room": null,
+            "sourceText": "Digital Logic Design"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Probability / and Statistics",
+            "room": null,
+            "sourceText": "Probability and Statistics"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Fundamentals / of ML",
+            "room": null,
+            "sourceText": "Fundamentals of ML"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "DLD \\ COA / LAB",
+            "room": null,
+            "sourceText": "DLD \\ COA LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Digital Logic Design / / Computer Organization &",
+            "room": "Architecture Computer Lab-4",
+            "sourceText": "Digital Logic Design / Computer Organization & Architecture Computer Lab-4"
+          }
+        ]
+      },
+      {
+        "day": "FRIDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Fundamentals / of ML",
+            "room": null,
+            "sourceText": "Fundamentals of ML"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "*Honors",
+            "room": null,
+            "sourceText": "*Honors"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Data Structures / and Algorithms",
+            "room": null,
+            "sourceText": "Data Structures and Algorithms"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Computer / Organization / & Architecture",
+            "room": null,
+            "sourceText": "Computer Organization & Architecture"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "FML LAB",
+            "room": null,
+            "sourceText": "FML LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Fundamentals of Machine / Learning",
+            "room": "Computer Lab - 5",
+            "sourceText": "Fundamentals of Machine Learning Computer Lab - 5"
+          }
+        ]
+      }
+    ],
+    "courses": [
+      {
+        "code": "CBSMA26311",
+        "name": "Probability and Statistics",
+        "faculty": ""
+      },
+      {
+        "code": "BCSF26322",
+        "name": "Digital Logic Design",
+        "faculty": "Dr.K.Anitha"
+      },
+      {
+        "code": "BCSF26323",
+        "name": "Computer Organization and Architecture",
+        "faculty": "Dr.T.Lakshmibai/ Mrs. T.Bhuvaneswari"
+      },
+      {
+        "code": "BCSF26324",
+        "name": "Data Structures and Algorithms",
+        "faculty": "Ms.R.Preethi"
+      },
+      {
+        "code": "BCSF26325",
+        "name": "Fundamentals of Machine Learning",
+        "faculty": "Dr.R.Sivaramakrishnan"
+      },
+      {
+        "code": "ML26311",
+        "name": "Intelligent Systems: Principles and practice",
+        "faculty": "-"
+      },
+      {
+        "code": "DS26311",
+        "name": "AI and Machine Learning*",
+        "faculty": "Ms.S.E.Viswapriya"
+      },
+      {
+        "code": "CS26311",
+        "name": "Cyber Space Operations",
+        "faculty": "-"
+      },
+      {
+        "code": "IT26311",
+        "name": "Introduction to Internet of Things*",
+        "faculty": "Dr.R.Govindarajan"
+      },
+      {
+        "code": "BHSF26316",
+        "name": "Humanities (Soft Skills-II)",
+        "faculty": ""
+      }
+    ],
+    "source": "Class Time Table Jul 2026.pdf"
+  },
+  {
+    "id": "class-15",
+    "year": "II",
+    "semester": "III",
+    "section": "S5",
+    "classIncharge": "Mr.B.Karthikeyan",
+    "schedule": [
+      {
+        "day": "MONDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Computer / Organization / & Architecture",
+            "room": null,
+            "sourceText": "Computer Organization & Architecture"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Probability / and Statistics",
+            "room": null,
+            "sourceText": "Probability and Statistics"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Fundamentals / of ML",
+            "room": null,
+            "sourceText": "Fundamentals of ML"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Soft Skills-II",
+            "room": null,
+            "sourceText": "Soft Skills-II"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Computer / Organization / & Architecture",
+            "room": null,
+            "sourceText": "Computer Organization & Architecture"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "CI",
+            "room": null,
+            "sourceText": "CI"
+          }
+        ]
+      },
+      {
+        "day": "TUESDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Digital Logic / Design",
+            "room": null,
+            "sourceText": "Digital Logic Design"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Data Structures and Algorithms",
+            "room": "Computer Lab - 1",
+            "sourceText": "Data Structures and Algorithms Computer Lab - 1"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "YOGA",
+            "room": null,
+            "sourceText": "YOGA"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Data Structures / and Algorithms",
+            "room": null,
+            "sourceText": "Data Structures and Algorithms"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "Computer / Organization / & Architecture",
+            "room": null,
+            "sourceText": "Computer Organization & Architecture"
+          }
+        ]
+      },
+      {
+        "day": "WEDNESDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Fundamentals of Machine Learning",
+            "room": "Computer Lab - 5",
+            "sourceText": "Fundamentals of Machine Learning Computer Lab - 5"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Cyber Space / Operations",
+            "room": null,
+            "sourceText": "Cyber Space Operations"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "Probability / and Statistics",
+            "room": null,
+            "sourceText": "Probability and Statistics"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Fundamentals / of ML",
+            "room": null,
+            "sourceText": "Fundamentals of ML"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "Digital Logic / Design",
+            "room": null,
+            "sourceText": "Digital Logic Design"
+          }
+        ]
+      },
+      {
+        "day": "THURSDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Fundamentals / of ML",
+            "room": null,
+            "sourceText": "Fundamentals of ML"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Digital Logic / Design",
+            "room": null,
+            "sourceText": "Digital Logic Design"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Data Structures / and Algorithms",
+            "room": null,
+            "sourceText": "Data Structures and Algorithms"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Probability / and Statistics",
+            "room": null,
+            "sourceText": "Probability and Statistics"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "DLD \\ COA / LAB",
+            "room": null,
+            "sourceText": "DLD \\ COA LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Digital Logic Design / / Computer Organization &",
+            "room": "Architecture Computer Lab-4",
+            "sourceText": "Digital Logic Design / Computer Organization & Architecture Computer Lab-4"
+          }
+        ]
+      },
+      {
+        "day": "FRIDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Probability / and Statistics",
+            "room": null,
+            "sourceText": "Probability and Statistics"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Digital Logic Design / / Computer Organization & Architecture",
+            "room": "Computer Lab-4",
+            "sourceText": "Digital Logic Design / Computer Organization & Architecture Computer Lab-4"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "Data Structures / and Algorithms",
+            "room": null,
+            "sourceText": "Data Structures and Algorithms"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Cyber Space / Operations",
+            "room": null,
+            "sourceText": "Cyber Space Operations"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "Cyber Space / Operations",
+            "room": null,
+            "sourceText": "Cyber Space Operations"
+          }
+        ]
+      }
+    ],
+    "courses": [
+      {
+        "code": "CBSMA26311",
+        "name": "Probability and Statistics",
+        "faculty": ""
+      },
+      {
+        "code": "BCSF26322",
+        "name": "Digital Logic Design",
+        "faculty": "Dr.P.Rajalakshmi"
+      },
+      {
+        "code": "BCSF26323",
+        "name": "Computer Organization and Architecture",
+        "faculty": "Dr.T.Dineshkumar/ Mrs.T.Bhuvaneswari"
+      },
+      {
+        "code": "BCSF26324",
+        "name": "Data Structures and Algorithms",
+        "faculty": "Ms.R.Preethi"
+      },
+      {
+        "code": "BCSF26325",
+        "name": "Fundamentals of Machine Learning",
+        "faculty": "Mr.T.Prakash"
+      },
+      {
+        "code": "ML26311",
+        "name": "Intelligent Systems: Principles and practice",
+        "faculty": "-"
+      },
+      {
+        "code": "DS26311",
+        "name": "AI and Machine Learning",
+        "faculty": "-"
+      },
+      {
+        "code": "CS26311",
+        "name": "Cyber Space Operations",
+        "faculty": "Mr.B.Karthikeyan"
+      },
+      {
+        "code": "IT26311",
+        "name": "Introduction to Internet of Things",
+        "faculty": "-"
+      },
+      {
+        "code": "BHSF26316",
+        "name": "Humanities (Soft Skills-II)",
+        "faculty": ""
+      }
+    ],
+    "source": "Class Time Table Jul 2026.pdf"
+  },
+  {
+    "id": "class-16",
+    "year": "II",
+    "semester": "III",
+    "section": "S6",
+    "classIncharge": "Mr.V.Balu",
+    "schedule": [
+      {
+        "day": "MONDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Data Structures / and Algorithms",
+            "room": null,
+            "sourceText": "Data Structures and Algorithms"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Digital Logic Design / / Computer Organization & Architecture",
+            "room": "Computer Lab-4",
+            "sourceText": "Digital Logic Design / Computer Organization & Architecture Computer Lab-4"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "Fundamentals / of ML",
+            "room": null,
+            "sourceText": "Fundamentals of ML"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Digital Logic / Design",
+            "room": null,
+            "sourceText": "Digital Logic Design"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "CI",
+            "room": null,
+            "sourceText": "CI"
+          }
+        ]
+      },
+      {
+        "day": "TUESDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Computer / Organization / & Architecture",
+            "room": null,
+            "sourceText": "Computer Organization & Architecture"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Digital Logic / Design",
+            "room": null,
+            "sourceText": "Digital Logic Design"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Data Structures / and Algorithms",
+            "room": null,
+            "sourceText": "Data Structures and Algorithms"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Probability / and Statistics",
+            "room": null,
+            "sourceText": "Probability and Statistics"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "DLD \\ COA / LAB",
+            "room": null,
+            "sourceText": "DLD \\ COA LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Digital Logic Design / / Computer Organization &",
+            "room": "Architecture Computer Lab-4",
+            "sourceText": "Digital Logic Design / Computer Organization & Architecture Computer Lab-4"
+          }
+        ]
+      },
+      {
+        "day": "WEDNESDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Digital Logic / Design",
+            "room": null,
+            "sourceText": "Digital Logic Design"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Fundamentals / of ML",
+            "room": null,
+            "sourceText": "Fundamentals of ML"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Probability / and Statistics",
+            "room": null,
+            "sourceText": "Probability and Statistics"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Soft Skills-II",
+            "room": null,
+            "sourceText": "Soft Skills-II"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Intelligent / Systems",
+            "room": null,
+            "sourceText": "Intelligent Systems"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "Data Structures / and Algorithms",
+            "room": null,
+            "sourceText": "Data Structures and Algorithms"
+          }
+        ]
+      },
+      {
+        "day": "THURSDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Fundamentals / of ML",
+            "room": null,
+            "sourceText": "Fundamentals of ML"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Probability / and Statistics",
+            "room": null,
+            "sourceText": "Probability and Statistics"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Computer / Organization / & Architecture",
+            "room": null,
+            "sourceText": "Computer Organization & Architecture"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Intelligent / Systems",
+            "room": null,
+            "sourceText": "Intelligent Systems"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "DSA Lab",
+            "room": null,
+            "sourceText": "DSA Lab"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Data Structures and Algorithms",
+            "room": "Computer Lab - 1",
+            "sourceText": "Data Structures and Algorithms Computer Lab - 1"
+          }
+        ]
+      },
+      {
+        "day": "FRIDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Probability / and Statistics",
+            "room": null,
+            "sourceText": "Probability and Statistics"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Fundamentals of Machine Learning",
+            "room": "Computer Lab - 5",
+            "sourceText": "Fundamentals of Machine Learning Computer Lab - 5"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "Intelligent / Systems",
+            "room": null,
+            "sourceText": "Intelligent Systems"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Computer / Organization / & Architecture",
+            "room": null,
+            "sourceText": "Computer Organization & Architecture"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "YOGA",
+            "room": null,
+            "sourceText": "YOGA"
+          }
+        ]
+      }
+    ],
+    "courses": [
+      {
+        "code": "CBSMA26311",
+        "name": "Probability and Statistics",
+        "faculty": ""
+      },
+      {
+        "code": "BCSF26322",
+        "name": "Digital Logic Design",
+        "faculty": "Dr.V.Malathi"
+      },
+      {
+        "code": "BCSF26323",
+        "name": "Computer Organization and Architecture",
+        "faculty": "Dr.T.Lakshmibai"
+      },
+      {
+        "code": "BCSF26324",
+        "name": "Data Structures and Algorithms",
+        "faculty": "Mr.R.Manikkavasagam"
+      },
+      {
+        "code": "BCSF26325",
+        "name": "Fundamentals of Machine Learning",
+        "faculty": "Mr.K.Harshawardhan"
+      },
+      {
+        "code": "ML26311",
+        "name": "Intelligent Systems: Principles and practice",
+        "faculty": "Mr.P.Ramesh Chandra"
+      },
+      {
+        "code": "DS26311",
+        "name": "AI and Machine Learning",
+        "faculty": "-"
+      },
+      {
+        "code": "CS26311",
+        "name": "Cyber Space Operations",
+        "faculty": "-"
+      },
+      {
+        "code": "IT26311",
+        "name": "Introduction to Internet of Things",
+        "faculty": "-"
+      },
+      {
+        "code": "BHSF26316",
+        "name": "Humanities (Soft Skills-II)",
+        "faculty": ""
+      }
+    ],
+    "source": "Class Time Table Jul 2026.pdf"
+  },
+  {
+    "id": "class-17",
+    "year": "II",
+    "semester": "III",
+    "section": "S7",
+    "classIncharge": "Dr.R.Prema",
+    "schedule": [
+      {
+        "day": "MONDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Digital Logic / Design",
+            "room": null,
+            "sourceText": "Digital Logic Design"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Intelligent / Systems",
+            "room": null,
+            "sourceText": "Intelligent Systems"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Data Structures / and Algorithms",
+            "room": null,
+            "sourceText": "Data Structures and Algorithms"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Probability / and Statistics",
+            "room": null,
+            "sourceText": "Probability and Statistics"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "DLD \\ COA / LAB",
+            "room": null,
+            "sourceText": "DLD \\ COA LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Digital Logic Design / / Computer Organization &",
+            "room": "Architecture Computer Lab-4",
+            "sourceText": "Digital Logic Design / Computer Organization & Architecture Computer Lab-4"
+          }
+        ]
+      },
+      {
+        "day": "TUESDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Data Structures / and Algorithms",
+            "room": null,
+            "sourceText": "Data Structures and Algorithms"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Probability / and Statistics",
+            "room": null,
+            "sourceText": "Probability and Statistics"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Fundamentals / of ML",
+            "room": null,
+            "sourceText": "Fundamentals of ML"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Digital Logic / Design",
+            "room": null,
+            "sourceText": "Digital Logic Design"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "FML LAB",
+            "room": null,
+            "sourceText": "FML LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Fundamentals of Machine / Learning",
+            "room": "Computer Lab - 5",
+            "sourceText": "Fundamentals of Machine Learning Computer Lab - 5"
+          }
+        ]
+      },
+      {
+        "day": "WEDNESDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Probability / and Statistics",
+            "room": null,
+            "sourceText": "Probability and Statistics"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Digital Logic Design / / Computer Organization & Architecture",
+            "room": "Computer Lab-4",
+            "sourceText": "Digital Logic Design / Computer Organization & Architecture Computer Lab-4"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "Intelligent / Systems",
+            "room": null,
+            "sourceText": "Intelligent Systems"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Computer / Organization / & Architecture",
+            "room": null,
+            "sourceText": "Computer Organization & Architecture"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "Fundamentals / of ML",
+            "room": null,
+            "sourceText": "Fundamentals of ML"
+          }
+        ]
+      },
+      {
+        "day": "THURSDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Probability / and Statistics",
+            "room": null,
+            "sourceText": "Probability and Statistics"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Computer / Organization / & Architecture",
+            "room": null,
+            "sourceText": "Computer Organization & Architecture"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Soft Skills-II",
+            "room": null,
+            "sourceText": "Soft Skills-II"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "CI",
+            "room": null,
+            "sourceText": "CI"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Computer / Organization / & Architecture",
+            "room": null,
+            "sourceText": "Computer Organization & Architecture"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "YOGA",
+            "room": null,
+            "sourceText": "YOGA"
+          }
+        ]
+      },
+      {
+        "day": "FRIDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Intelligent / Systems",
+            "room": null,
+            "sourceText": "Intelligent Systems"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Data Structures and Algorithms",
+            "room": "Computer Lab - 1",
+            "sourceText": "Data Structures and Algorithms Computer Lab - 1"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "Fundamentals / of ML",
+            "room": null,
+            "sourceText": "Fundamentals of ML"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Data Structures / and Algorithms",
+            "room": null,
+            "sourceText": "Data Structures and Algorithms"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "Digital Logic / Design",
+            "room": null,
+            "sourceText": "Digital Logic Design"
+          }
+        ]
+      }
+    ],
+    "courses": [
+      {
+        "code": "CBSMA26311",
+        "name": "Probability and Statistics",
+        "faculty": ""
+      },
+      {
+        "code": "BCSF26322",
+        "name": "Digital Logic Design",
+        "faculty": "Dr.P.Rajalakshmi"
+      },
+      {
+        "code": "BCSF26323",
+        "name": "Computer Organization and Architecture",
+        "faculty": "Dr.N.C.A.Boovarahan/ Mrs. T.Bhuvaneswari"
+      },
+      {
+        "code": "BCSF26324",
+        "name": "Data Structures and Algorithms",
+        "faculty": "Mr.R.Manikkavasagam"
+      },
+      {
+        "code": "BCSF26325",
+        "name": "Fundamentals of Machine Learning",
+        "faculty": "Ms.R.Rajalakshmi"
+      },
+      {
+        "code": "ML26311",
+        "name": "Intelligent Systems: Principles and practice",
+        "faculty": "Mr.P.Ramesh Chandra"
+      },
+      {
+        "code": "DS26311",
+        "name": "AI and Machine Learning",
+        "faculty": "-"
+      },
+      {
+        "code": "CS26311",
+        "name": "Cyber Space Operations",
+        "faculty": "-"
+      },
+      {
+        "code": "IT26311",
+        "name": "Introduction to Internet of Things",
+        "faculty": "-"
+      },
+      {
+        "code": "BHSF26316",
+        "name": "Humanities (Soft Skills-II)",
+        "faculty": ""
+      }
+    ],
+    "source": "Class Time Table Jul 2026.pdf"
+  },
+  {
+    "id": "class-18",
+    "year": "II",
+    "semester": "III",
+    "section": "S8",
+    "classIncharge": "Ms.S.E.Viswapriya",
+    "schedule": [
+      {
+        "day": "MONDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Data Structures / and Algorithms",
+            "room": null,
+            "sourceText": "Data Structures and Algorithms"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Digital Logic / Design",
+            "room": null,
+            "sourceText": "Digital Logic Design"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Computer / Organization / & Architecture",
+            "room": null,
+            "sourceText": "Computer Organization & Architecture"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Probability / and Statistics",
+            "room": null,
+            "sourceText": "Probability and Statistics"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "FML LAB",
+            "room": null,
+            "sourceText": "FML LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Fundamentals of Machine / Learning",
+            "room": "Computer Lab - 5",
+            "sourceText": "Fundamentals of Machine Learning Computer Lab - 5"
+          }
+        ]
+      },
+      {
+        "day": "TUESDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Fundamentals / of ML",
+            "room": null,
+            "sourceText": "Fundamentals of ML"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Digital Logic Design / / Computer Organization & Architecture",
+            "room": "Computer Lab-4",
+            "sourceText": "Digital Logic Design / Computer Organization & Architecture Computer Lab-4"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "Probability / and Statistics",
+            "room": null,
+            "sourceText": "Probability and Statistics"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Fundamentals / of ML",
+            "room": null,
+            "sourceText": "Fundamentals of ML"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "CI",
+            "room": null,
+            "sourceText": "CI"
+          }
+        ]
+      },
+      {
+        "day": "WEDNESDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Digital Logic / Design",
+            "room": null,
+            "sourceText": "Digital Logic Design"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Computer / Organization / & Architecture",
+            "room": null,
+            "sourceText": "Computer Organization & Architecture"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Data Structures / and Algorithms",
+            "room": null,
+            "sourceText": "Data Structures and Algorithms"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "*Honors",
+            "room": null,
+            "sourceText": "*Honors"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "DLD \\ COA / LAB",
+            "room": null,
+            "sourceText": "DLD \\ COA LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Digital Logic Design / / Computer Organization &",
+            "room": "Architecture Computer Lab-4",
+            "sourceText": "Digital Logic Design / Computer Organization & Architecture Computer Lab-4"
+          }
+        ]
+      },
+      {
+        "day": "THURSDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Probability / and Statistics",
+            "room": null,
+            "sourceText": "Probability and Statistics"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Data Structures and Algorithms",
+            "room": "Computer Lab - 1",
+            "sourceText": "Data Structures and Algorithms Computer Lab - 1"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "Fundamentals / of ML",
+            "room": null,
+            "sourceText": "Fundamentals of ML"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Data Structures / and Algorithms",
+            "room": null,
+            "sourceText": "Data Structures and Algorithms"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "*Honors",
+            "room": null,
+            "sourceText": "*Honors"
+          }
+        ]
+      },
+      {
+        "day": "FRIDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "*Honors",
+            "room": null,
+            "sourceText": "*Honors"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Digital Logic / Design",
+            "room": null,
+            "sourceText": "Digital Logic Design"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Probability / and Statistics",
+            "room": null,
+            "sourceText": "Probability and Statistics"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Computer / Organization / & Architecture",
+            "room": null,
+            "sourceText": "Computer Organization & Architecture"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "YOGA",
+            "room": null,
+            "sourceText": "YOGA"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Soft Skills-II",
+            "room": null,
+            "sourceText": "Soft Skills-II"
+          }
+        ]
+      }
+    ],
+    "courses": [
+      {
+        "code": "CBSMA26311",
+        "name": "Probability and Statistics",
+        "faculty": ""
+      },
+      {
+        "code": "BCSF26322",
+        "name": "Digital Logic Design",
+        "faculty": "Dr.S.Bharathi"
+      },
+      {
+        "code": "BCSF26323",
+        "name": "Computer Organization and Architecture",
+        "faculty": "Dr.T.Dineshkumar/ Mrs.T.Bhuvaneswari"
+      },
+      {
+        "code": "BCSF26324",
+        "name": "Data Structures and Algorithms",
+        "faculty": "Ms.S.E.Viswapriya"
+      },
+      {
+        "code": "BCSF26325",
+        "name": "Fundamentals of Machine Learning",
+        "faculty": "Ms.R.Radhika"
+      },
+      {
+        "code": "ML26311",
+        "name": "Intelligent Systems: Principles and practice",
+        "faculty": "Ms.R.Preethi"
+      },
+      {
+        "code": "DS26311",
+        "name": "AI and Machine Learning",
+        "faculty": "Ms.R.Rajalakshmi"
+      },
+      {
+        "code": "CS26311",
+        "name": "Cyber Space Operations",
+        "faculty": "-"
+      },
+      {
+        "code": "IT26311",
+        "name": "Introduction to Internet of Things",
+        "faculty": "-"
+      },
+      {
+        "code": "BHSF26316",
+        "name": "Humanities (Soft Skills-II)",
+        "faculty": ""
+      }
+    ],
+    "source": "Class Time Table Jul 2026.pdf"
+  },
+  {
+    "id": "class-19",
+    "year": "II",
+    "semester": "III",
+    "section": "S9",
+    "classIncharge": "Ms.R.Rajalakshmi",
+    "schedule": [
+      {
+        "day": "MONDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Probability / and Statistics",
+            "room": null,
+            "sourceText": "Probability and Statistics"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Fundamentals of Machine Learning",
+            "room": "Computer Lab - 5",
+            "sourceText": "Fundamentals of Machine Learning Computer Lab - 5"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "YOGA",
+            "room": null,
+            "sourceText": "YOGA"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "AI and / Machine / Learning",
+            "room": null,
+            "sourceText": "AI and Machine Learning"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "CI",
+            "room": null,
+            "sourceText": "CI"
+          }
+        ]
+      },
+      {
+        "day": "TUESDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Computer / Organization / & Architecture",
+            "room": null,
+            "sourceText": "Computer Organization & Architecture"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "AI and / Machine / Learning",
+            "room": null,
+            "sourceText": "AI and Machine Learning"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Data Structures / and Algorithms",
+            "room": null,
+            "sourceText": "Data Structures and Algorithms"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Soft Skills-II",
+            "room": null,
+            "sourceText": "Soft Skills-II"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "AI and / Machine / Learning",
+            "room": null,
+            "sourceText": "AI and Machine Learning"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "Probability / and Statistics",
+            "room": null,
+            "sourceText": "Probability and Statistics"
+          }
+        ]
+      },
+      {
+        "day": "WEDNESDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Data Structures / and Algorithms",
+            "room": null,
+            "sourceText": "Data Structures and Algorithms"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Fundamentals / of ML",
+            "room": null,
+            "sourceText": "Fundamentals of ML"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Computer / Organization / & Architecture",
+            "room": null,
+            "sourceText": "Computer Organization & Architecture"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Digital Logic / Design",
+            "room": null,
+            "sourceText": "Digital Logic Design"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "DSA Lab",
+            "room": null,
+            "sourceText": "DSA Lab"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Data Structures and Algorithms",
+            "room": "Computer Lab - 1",
+            "sourceText": "Data Structures and Algorithms Computer Lab - 1"
+          }
+        ]
+      },
+      {
+        "day": "THURSDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Fundamentals / of ML",
+            "room": null,
+            "sourceText": "Fundamentals of ML"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Digital Logic Design / / Computer Organization & Architecture",
+            "room": "Computer Lab-4",
+            "sourceText": "Digital Logic Design / Computer Organization & Architecture Computer Lab-4"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "Probability / and Statistics",
+            "room": null,
+            "sourceText": "Probability and Statistics"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Digital Logic / Design",
+            "room": null,
+            "sourceText": "Digital Logic Design"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "subject": "Computer / Organization / & Architecture",
+            "room": null,
+            "sourceText": "Computer Organization & Architecture"
+          }
+        ]
+      },
+      {
+        "day": "FRIDAY",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "subject": "Digital Logic / Design",
+            "room": null,
+            "sourceText": "Digital Logic Design"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "subject": "Probability / and Statistics",
+            "room": null,
+            "sourceText": "Probability and Statistics"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "subject": "Fundamentals / of ML",
+            "room": null,
+            "sourceText": "Fundamentals of ML"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "subject": "Data Structures / and Algorithms",
+            "room": null,
+            "sourceText": "Data Structures and Algorithms"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "subject": "DLD \\ COA / LAB",
+            "room": null,
+            "sourceText": "DLD \\ COA LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:10",
+            "end": "15:10",
+            "subject": "Digital Logic Design / / Computer Organization &",
+            "room": "Architecture Computer Lab-4",
+            "sourceText": "Digital Logic Design / Computer Organization & Architecture Computer Lab-4"
+          }
+        ]
+      }
+    ],
+    "courses": [
+      {
+        "code": "CBSMA26311",
+        "name": "Probability and Statistics",
+        "faculty": ""
+      },
+      {
+        "code": "BCSF26322",
+        "name": "Digital Logic Design",
+        "faculty": "Dr.V.Malathi"
+      },
+      {
+        "code": "BCSF26323",
+        "name": "Computer Organization and Architecture",
+        "faculty": "Dr.T.Sundar/ Mr.R.Manikkavasagam"
+      },
+      {
+        "code": "BCSF26324",
+        "name": "Data Structures and Algorithms",
+        "faculty": "Ms.S.E.Viswapriya"
+      },
+      {
+        "code": "BCSF26325",
+        "name": "Fundamentals of Machine Learning",
+        "faculty": "Ms.R.Rajalakshmi"
+      },
+      {
+        "code": "ML26311",
+        "name": "Intelligent Systems: Principles and practice",
+        "faculty": "-"
+      },
+      {
+        "code": "DS26311",
+        "name": "AI and Machine Learning",
+        "faculty": "Mr.K.Harshawardhan"
+      },
+      {
+        "code": "CS26311",
+        "name": "Cyber Space Operations",
+        "faculty": "-"
+      },
+      {
+        "code": "IT26311",
+        "name": "Introduction to Internet of Things",
+        "faculty": "-"
+      },
+      {
+        "code": "BHSF26316",
+        "name": "Humanities (Soft Skills-II)",
+        "faculty": ""
+      }
+    ],
+    "source": "Class Time Table Jul 2026.pdf"
+  }
+]

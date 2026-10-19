@@ -1,0 +1,3325 @@
+[
+  {
+    "id": "staff-01",
+    "name": "Dr. K.Balachandran",
+    "initials": "KB",
+    "courses": [
+      "Program Elective-II ( Computer Vision)",
+      "Open Elective - I software project management",
+      "Data Analytics",
+      "Data Analytics Lab",
+      "M.E PROJECT PHASE 1",
+      "IV Year CSE/ IT Project Work Phase - I / ITP"
+    ],
+    "schedule": [
+      {
+        "day": "Monday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "SPM"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "SPM"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "slots": [
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "SPM"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "ME Project Work"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "DA"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "DA"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "CV"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "CV"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "CV"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "DA"
+          }
+        ]
+      },
+      {
+        "day": "Saturday",
+        "slots": [
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "DA Lab"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "staff-02",
+    "name": "Dr. M.Senthilkumaran",
+    "initials": "MS",
+    "courses": [
+      "Mobile computing",
+      "Computer Networks",
+      "Computer Networks lab"
+    ],
+    "schedule": [
+      {
+        "day": "Monday",
+        "slots": [
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "CN"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "CN LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S4 CN LAB"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "slots": [
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S3 CN LAB"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "slots": [
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "IV –MC"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "event": "CN"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "slots": [
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "IV –MC"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "IV –MC"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "CN"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "staff-03",
+    "name": "Dr. P.Shanmugapriya",
+    "initials": "PS",
+    "courses": [
+      "Programming in Java",
+      "Professional Elective-I (Object Oriented Analysis and Design)",
+      "Programming in Java Lab"
+    ],
+    "schedule": [
+      {
+        "day": "Tuesday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "OOAD"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "JAVA"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "JAVA Lab"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S2 JAVA Lab"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "slots": [
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S1 JAVA Lab"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "OOAD"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "event": "JAVA"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "slots": [
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "OOAD"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "JAVA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "staff-04",
+    "name": "Mr. R.Manickavasagam",
+    "initials": "RM",
+    "courses": [
+      "Computer Organization and Architecture",
+      "Data Structures and Algorithm",
+      "Computer Organization and Architecture Lab",
+      "Data Structures and Algorithm Lab"
+    ],
+    "schedule": [
+      {
+        "day": "Monday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "S6 DSA"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S7 DSA"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "S2 COA"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "S7 DSA"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S6 DSA"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "slots": [
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "S2 COA"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "event": "S6 DSA"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "S2 COA"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "S9 / S2 COA LAB"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "event": "S7 DSA"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "slots": [
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S7 DSA LAB"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "staff-05",
+    "name": "Mr. E.Sankar",
+    "initials": "ES",
+    "courses": [
+      "Vulnerability Discovery & Exploit Development",
+      "Programming in Java",
+      "Database Security Lab",
+      "Programming in Java Lab"
+    ],
+    "schedule": [
+      {
+        "day": "Monday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "S2 JAVA"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "DBA LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "DBA LAB"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "slots": [
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "IV-Honos"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "IV-Honos"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "slots": [
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "S6 JAVA"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "event": "S2 JAVA"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "slots": [
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S6 JAVA LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S6 JAVA"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "slots": [
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "S2 JAVA"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "IV-Honos"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "event": "S6 JAVA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "staff-06",
+    "name": "Dr. V.Geetha",
+    "initials": "VG",
+    "courses": [
+      "Programming in Java",
+      "Computational Biology",
+      "Programming in Java Lab"
+    ],
+    "schedule": [
+      {
+        "day": "Monday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "IV –CB"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "event": "S4 JAVA"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "event": "S5 JAVA"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "slots": [
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S4 JAVA LAB"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "slots": [
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "S4 JAVA"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "event": "IV –CB"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S5 JAVA"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "slots": [
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "IV –CB"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "S4 JAVA"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "event": "CI"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "S5 JAVA"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "JAVA Lab"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S5 JAVA LAB"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "staff-07",
+    "name": "Dr. M.Saraswathi",
+    "initials": "MS",
+    "courses": [
+      "Programming in Java",
+      "Professional Elective-I(Object Oriented Analysis and Design)(S5-S7)",
+      "Programming in Java Lab"
+    ],
+    "schedule": [
+      {
+        "day": "Monday",
+        "slots": [
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "OOAD"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "event": "OOAD"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S3 JAVA"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "slots": [
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "S7 JAVA"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "OOAD"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "S3 JAVA"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S7 JAVA"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "slots": [
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S3 JAVA"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "JAVA LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S3 JAVA LAB"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "slots": [
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S7 JAVA LAB"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "event": "S7 JAVA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "staff-08",
+    "name": "Dr. C.K.Gomathy",
+    "initials": "CK",
+    "courses": [
+      "II BE Cyber Security - Cyberspace operations",
+      "Professional Elective-I(Object Oriented Analysis and Design)(S1-S4)",
+      "Professional Elective-I(Object Oriented Analysis and Design)(S5-S7)",
+      "Essentials of Computing Lab",
+      "III Honors-AIDS Data Visualization lab"
+    ],
+    "schedule": [
+      {
+        "day": "Monday",
+        "slots": [
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "OOAD2"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "event": "OOAD2"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "OOAD1"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "Essentials of Computing Lab"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "OOAD2"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "event": "HONS-CY"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "OOAD1"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S5 DV LAB"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "slots": [
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "OOAD1"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "HONS- CY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "staff-09",
+    "name": "Mr. SureshkumarBhadram",
+    "initials": "S",
+    "courses": [
+      "Data Structures and Algorithm",
+      "Professional Elective-I(Object Oriented Analysis and Design)(s1-s4)",
+      "Data Structures and Algorithm Lab"
+    ],
+    "schedule": [
+      {
+        "day": "Monday",
+        "slots": [
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "S1 DSA"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "event": "S2 DSA"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "OOAD"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S2 DSA"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "DSA LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S2 DSA LAB"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "slots": [
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "S1 DSA LAB"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "CI"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S1 DSA"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "OOAD"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S1 DSA"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "S2 DSA"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "slots": [
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "OOAD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "staff-10",
+    "name": "Dr. M.Gayathri",
+    "initials": "MG",
+    "courses": [
+      "Natural Language Processing",
+      "PRINCIPLES OF INTELLIGENT SYSTEMS",
+      "Natural Language Processing Lab"
+    ],
+    "schedule": [
+      {
+        "day": "Monday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "S4 NLP"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "S1 NLP"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "slots": [
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "event": "CI"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S4 NLP"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "slots": [
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "event": "HONS - CY"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "NLP LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S4 NLP LAB"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "slots": [
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "S1 NLP"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "NLP LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S1 NLP LAB"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "slots": [
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "S4 NLP"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "event": "S1 NLP"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "HONS - CY"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "staff-11",
+    "name": "Dr. D.Thamaraiselvi",
+    "initials": "DT",
+    "courses": [
+      "Data Structures and Algorithm",
+      "Database Management System",
+      "Data Structures and Algorithm Lab",
+      "Database Management System Lab"
+    ],
+    "schedule": [
+      {
+        "day": "Monday",
+        "slots": [
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "S3 DBMS"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "event": "DSA"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "DSA LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S3 DSA LAB"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "slots": [
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "S4 DBMS"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "event": "CI"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "S4 DBMS"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "DSA"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "event": "S3 DBMS"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "slots": [
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S4 DBMS LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "DSA"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "S3 DBMS"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "event": "S4 DBMS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "staff-12",
+    "name": "Dr. T.Dinesh Kumar",
+    "initials": "TD",
+    "courses": [
+      "Computer Networks",
+      "Computer Organization and Architecture",
+      "Computer networks lab",
+      "Computer Organization and Architecture Lab"
+    ],
+    "schedule": [
+      {
+        "day": "Monday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "S5 COA"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S8 COA"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "CN"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S5 COA"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "slots": [
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "event": "CN"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "event": "S5 COA"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "slots": [
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "S8 COA"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "COA LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S8 COA LAB"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "slots": [
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S2 CN LAB"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "event": "CI"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "CN"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "event": "S8 COA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "staff-13",
+    "name": "Dr. T.Sundar",
+    "initials": "TS",
+    "courses": [
+      "Computer Networks",
+      "Computer Organization and Architecture",
+      "Computer networks lab",
+      "Computer Organization and Architecture Lab"
+    ],
+    "schedule": [
+      {
+        "day": "Monday",
+        "slots": [
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S1 CN LAB"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "S9 COA"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "event": "CN"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S3 COA"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "CN"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S9 COA"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "CI"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "S3 COA"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "S3 COA"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "event": "S9 COA"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "slots": [
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "CN"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "COA LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S9/S3 COA LAB"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "staff-14",
+    "name": "Dr. T.Lakshmibai",
+    "initials": "TL",
+    "courses": [
+      "Computational Biology",
+      "Computer Organization and Architecture",
+      "Computer Organization and Architecture Lab"
+    ],
+    "schedule": [
+      {
+        "day": "Monday",
+        "slots": [
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S6 COA LAB"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "S6 COA"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S4 COA"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "S6 / S1 COA LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S6 / S1 COA LAB"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "S4 COA"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "IV-CB"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "slots": [
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "IV-CB"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S6 COA"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "event": "CI"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "IV-CB"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "event": "S4 COA"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S6 COA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "staff-15",
+    "name": "Dr. R.Prema",
+    "initials": "RP",
+    "courses": [
+      "Natural Language Processing",
+      "Cognitive Analytics",
+      "Natural Language Processing Lab"
+    ],
+    "schedule": [
+      {
+        "day": "Monday",
+        "slots": [
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "event": "S3 NLP"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "event": "S2 NLP"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "slots": [
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "S2 NLP"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "IV-Honors"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "S3 NLP"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "IV-Honors"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "slots": [
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S3 NLP LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S3 NLP"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "slots": [
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "CI"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S2 NLP"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "slots": [
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "IV-Honors"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "NLP LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S2 NLP LAB"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "staff-16",
+    "name": "Mr. V.Balu",
+    "initials": "VB",
+    "courses": [
+      "Database Management System",
+      "Database Security",
+      "Database Management System Lab"
+    ],
+    "schedule": [
+      {
+        "day": "Monday",
+        "slots": [
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S2 DBMS LAB"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "event": "CI"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "HONS"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S2 DBMS"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "DBMS LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S1 DBMS LAB"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "slots": [
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "S2 DBMS"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S1 DBMS"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "HONS"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S1 DBMS"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "S1 DBMS"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "event": "S2 DBMS"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "HONS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "staff-17",
+    "name": "Dr. N.C.A.Boovarahan",
+    "initials": "NC",
+    "courses": [
+      "Computer Networks",
+      "Computer Organization and Architecture",
+      "Computer networks lab",
+      "Computer Organization and Architecture Lab"
+    ],
+    "schedule": [
+      {
+        "day": "Monday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "CN"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "S1 COA"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "COA LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S7 / S1 COA LAB"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "S1COA"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "CN"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "slots": [
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S7 CN LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S7 COA"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "event": "CI"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "S7 COA"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "event": "CN"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S7 COA"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "slots": [
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "S1 COA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "staff-18",
+    "name": "Ms. S.E.Viswapriya",
+    "initials": "SE",
+    "courses": [
+      "Data Structures and Algorithm",
+      "II AIDS - AI and Machine Learning",
+      "Data Structures and Algorithm Lab"
+    ],
+    "schedule": [
+      {
+        "day": "Monday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "S8 DSA"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "HONS"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "slots": [
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "HONS"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S9 DSA"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "S9 DSA"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S8 DSA"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "DSA LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S9 DSA LAB"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "slots": [
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S8 DSA LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S8 DSA"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "slots": [
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "HONS"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "event": "S9 DSA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "staff-19",
+    "name": "Ms. R.Preethi",
+    "initials": "RP",
+    "courses": [
+      "Data Structures and Algorithm",
+      "PRINCIPLES OF INTELLIGENT SYSTEMS",
+      "Data Structures and Algorithm Lab"
+    ],
+    "schedule": [
+      {
+        "day": "Monday",
+        "slots": [
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S4 DSA LAB"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "event": "CI"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "slots": [
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S5 DSA LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S5 DSA"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "slots": [
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "event": "HONS"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "event": "S4 DSA"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "S4 DSA"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S5 DSA"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "event": "HONS"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "HONS"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S4 DSA"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "S5 DSA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "staff-20",
+    "name": "Mr. D.Jeevan Kumar",
+    "initials": "DJ",
+    "courses": [
+      "Database Management System",
+      "PRINCIPLES OF INTELLIGENT SYSTEMS",
+      "Database Management System Lab"
+    ],
+    "schedule": [
+      {
+        "day": "Monday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "S6 DBMS"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "event": "CI"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "slots": [
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S6 DBMS LAB"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "event": "S7 DBMS"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "slots": [
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S6 DBMS"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "event": "HONS"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "slots": [
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S7 DBMS"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "DBMS LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S7 DBMS LAB"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "S7 DBMS"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S6 DBMS"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "HONS"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "event": "HONS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "staff-21",
+    "name": "Mr. B.Karthikeyan",
+    "initials": "BK",
+    "courses": [
+      "Computer Networks",
+      "II BE Cyber Security - Cyberspace operations",
+      "computer networks lab"
+    ],
+    "schedule": [
+      {
+        "day": "Monday",
+        "slots": [
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S6 CN"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "event": "CI"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "S5 CN"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "CN LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S5 CN LAB"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "slots": [
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "event": "HONS"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "CN LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S6 CN LAB"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "slots": [
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "S5 CN"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "event": "S6 CN"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "S6 CN"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S5 CN"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "HONS"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "event": "HONS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "staff-22",
+    "name": "Ms. R.Rajalakshmi",
+    "initials": "RR",
+    "courses": [
+      "Fundamentals of Machine Learning",
+      "AI and Machine Learning",
+      "Fundamentals of Machine Learning Lab"
+    ],
+    "schedule": [
+      {
+        "day": "Monday",
+        "slots": [
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S9 ML LAB"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "event": "CI"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "slots": [
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S7 ML"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "ML LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S7 ML LAB"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "slots": [
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "S9 ML"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "event": "HONS"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "event": "S7 ML"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "S9 ML"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S7 ML"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "event": "HONS"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "HONS"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S9 ML"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "staff-23",
+    "name": "Dr. R.Sivaramakrishnan",
+    "initials": "RS",
+    "courses": [
+      "Computer Networks",
+      "Fundamentals of Machine Learning",
+      "Fundamentals of Machine Learning Lab"
+    ],
+    "schedule": [
+      {
+        "day": "Monday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "S2 ML"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S2 ML"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "CI"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "slots": [
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "event": "S4 ML"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "CN"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S2 ML"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "ML LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S2 ML LAB"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "slots": [
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "CN"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "event": "S4 ML"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "S4 ML"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "event": "CN"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "ML LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S4 ML LAB"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "staff-24",
+    "name": "Ms. R.Radhika",
+    "initials": "RR",
+    "courses": [
+      "Fundamentals of Machine Learning",
+      "Natural Language Processing",
+      "Fundamentals of Machine Learning Lab"
+    ],
+    "schedule": [
+      {
+        "day": "Monday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "NLP"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S3 ML"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "ML LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S8 ML LAB"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "S8 ML"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "event": "NLP"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S8 ML"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "S3 ML"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "CI"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "slots": [
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S3 ML LAB"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "S8 ML"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "slots": [
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "NLP"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "event": "S3 ML"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "staff-25",
+    "name": "Mr. Harshawardhan",
+    "initials": "H",
+    "courses": [
+      "Fundamentals of Machine Learning",
+      "II AIDS - AI and Machine Learning",
+      "Fundamentals of Machine Learning Lab"
+    ],
+    "schedule": [
+      {
+        "day": "Monday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "S1 ML"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "S6 ML"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S9 HONS"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "slots": [
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "HONS"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "event": "S1 ML"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S9 HONS"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "slots": [
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "S6 ML"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "S6 ML"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "S1 ML"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "ML LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S1 ML LAB"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "slots": [
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S6 ML LAB"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "staff-26",
+    "name": "Dr. R.Govindarajan",
+    "initials": "RG",
+    "courses": [
+      "Introduction to IOT",
+      "IOT Security",
+      "Application development with lab"
+    ],
+    "schedule": [
+      {
+        "day": "Monday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "IV-IOT"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "II IOT"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "IV IOT LAB"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "III IOT"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "II IOT"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "IV-IOT"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "IV-IOT"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "III IOT"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "slots": [
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "II IOT"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "IV-IOT"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "III IOT"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "staff-27",
+    "name": "Mr. T.Prakash",
+    "initials": "TP",
+    "courses": [
+      "Fundamentals of Machine Learning",
+      "Fundamentals of Machine Learning Lab",
+      "Database Management System Lab"
+    ],
+    "schedule": [
+      {
+        "day": "Monday",
+        "slots": [
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S5 FML"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "slots": [
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "S5 FML LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S5 FML"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "S5 FML"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "slots": [
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "DBMS LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S3 DBMS LAB"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "staff-28",
+    "name": "Mr. Ramesh Chandra",
+    "initials": "RC",
+    "courses": [
+      "AIML & AIDS - Natural Language Processing",
+      "PRINCIPLES OF INTELLIGENT SYSTEMS",
+      "IT Workshop( SCI Lab)",
+      "III Honors-AIDS Data Visualization lab"
+    ],
+    "schedule": [
+      {
+        "day": "Monday",
+        "slots": [
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "S7 HONS"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "DV LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S6 DV LAB"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "NLP"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "slots": [
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "S7 HONS"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S6 HONS"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "NLP"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "event": "S6 HONS"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "S7 HONS"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "S6 HONS"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "NLP"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "staff-29",
+    "name": "Ms. Hema Poorani J",
+    "initials": "HP",
+    "courses": [
+      "Database Management System",
+      "Professional Elective-I(Internet of Things) (S1-S4)",
+      "Professional Elective-I(Internet of Things) (S5-S7)",
+      "Database Management System Lab",
+      "Data Structures and Algorithm Lab"
+    ],
+    "schedule": [
+      {
+        "day": "Monday",
+        "slots": [
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "IOT2"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "event": "IOT2"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "DBMS"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "IOT1"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "DBMS"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "IOT2"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "S5 DBMS LAB"
+          },
+          {
+            "period": 7,
+            "start": "15:10",
+            "end": "16:10",
+            "event": "DBMS"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "IOT1"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "DSA LAB"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "S6 DSA LAB"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "slots": [
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "IOT1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "staff-30",
+    "name": "Mr. Sreesha",
+    "initials": "S",
+    "courses": [
+      "Digital Marketing",
+      "I BE CSE Essentials of Computing Lab"
+    ],
+    "schedule": [
+      {
+        "day": "Monday",
+        "slots": [
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "IV –CSE"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "IV –CSE"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "IV –CSE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "staff-31",
+    "name": "Ms. Sri Gauri",
+    "initials": "SG",
+    "courses": [
+      "I BE CSE Essentials of Computing with Lab",
+      "I BE CSE Essentials of Computing"
+    ],
+    "schedule": [
+      {
+        "day": "Monday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "I CSE S4"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "I CSE S1"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "I CSE S5"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "I CSE S5"
+          },
+          {
+            "period": 6,
+            "start": "14:20",
+            "end": "15:10",
+            "event": "I CSE S1"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "I CSE S5"
+          },
+          {
+            "period": 3,
+            "start": "10:20",
+            "end": "11:20",
+            "event": "I CSE S1"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "I CSE S4"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "slots": [
+          {
+            "period": 1,
+            "start": "08:10",
+            "end": "09:10",
+            "event": "I CSE S4"
+          },
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "I CSE S5"
+          },
+          {
+            "period": 4,
+            "start": "11:20",
+            "end": "12:20",
+            "event": "I CSE S4"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "I CSE S1"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "slots": [
+          {
+            "period": 2,
+            "start": "09:10",
+            "end": "10:10",
+            "event": "I CSE S4 EC LAB – Dell LAB"
+          },
+          {
+            "period": 5,
+            "start": "12:20",
+            "end": "13:20",
+            "event": "I CSE S5 EC LAB – LAB-2"
+          }
+        ]
+      }
+    ]
+  }
+]
