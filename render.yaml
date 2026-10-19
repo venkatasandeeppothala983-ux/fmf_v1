@@ -1,0 +1,25 @@
+services:
+  - type: web
+    name: college-portal-demo
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    healthCheckPath: /api/health
+    envVars:
+      - key: SPRING_PROFILES_ACTIVE
+        value: preview
+      - key: SESSION_COOKIE_SECURE
+        value: "true"
+      - key: ADMIN_USERNAME
+        sync: false
+      - key: ADMIN_PASSWORD
+        sync: false
+      - key: PREVIEW_STUDENT_USERNAME
+        sync: false
+      - key: PREVIEW_STUDENT_PASSWORD
+        sync: false
+      - key: PREVIEW_FACULTY_USERNAME
+        sync: false
+      - key: PREVIEW_FACULTY_PASSWORD
+        sync: false
