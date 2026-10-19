@@ -1,0 +1,28 @@
+server:
+  servlet:
+    session:
+      cookie:
+        same-site: none
+        secure: true
+spring:
+  datasource:
+    url: jdbc:h2:mem:findmyfaculty-preview;MODE=MySQL;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=FALSE;DATABASE_TO_LOWER=TRUE
+    username: sa
+    password:
+    driver-class-name: org.h2.Driver
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+    open-in-view: false
+app:
+  cors:
+    allowed-origins: "${CORS_ALLOWED_ORIGINS:http://localhost:4173,http://localhost:3000,https://*.e2b.app,https://*.trycloudflare.com}"
+  admin:
+    username: ${ADMIN_USERNAME:}
+    password: ${ADMIN_PASSWORD:}
+  preview:
+    allow-frames: true
+    student-username: ${PREVIEW_STUDENT_USERNAME:}
+    student-password: ${PREVIEW_STUDENT_PASSWORD:}
+    faculty-username: ${PREVIEW_FACULTY_USERNAME:}
+    faculty-password: ${PREVIEW_FACULTY_PASSWORD:}
