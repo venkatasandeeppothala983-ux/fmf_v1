@@ -1,0 +1,22 @@
+[Unit]
+Description=College Portal Spring Boot application
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=simple
+User=portal
+Group=portal
+WorkingDirectory=/opt/college-portal
+EnvironmentFile=/etc/college-portal/portal.env
+ExecStart=/usr/bin/java -jar /opt/college-portal/find-my-faculty-backend.jar
+Restart=always
+RestartSec=5
+SuccessExitStatus=143
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=full
+ProtectHome=true
+
+[Install]
+WantedBy=multi-user.target
