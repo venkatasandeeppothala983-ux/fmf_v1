@@ -31,6 +31,13 @@ class FacultyApiIntegrationTest {
     @Autowired PasswordEncoder passwords;
     @Autowired AnnouncementRepository announcements;
     @Test void healthIsPublic() throws Exception {mvc.perform(get("/api/health")).andExpect(status().isOk()).andExpect(jsonPath("$.status").value("ok"));}
+    @Test void roomAvailabilityRequiresAnAuthenticatedUser() throws Exception {mvc.perform(get("/api/rooms/availability")).andExpect(status().isUnauthorized());}
+    @Test void signedInStudentCanViewScheduleBasedRoomAvailability() throws Exception {
+        UserAccount account=new UserAccount();account.username="room-view-student";account.passwordHash=passwords.encode("StudentRoomView2026!");account.role=Role.STUDENT;users.save(account);
+        var login=mvc.perform(post("/api/auth/login").contentType(MediaType.APPLICATION_JSON).content("{\"username\":\"room-view-student\",\"password\":\"StudentRoomView2026!\",\"loginType\":\"STUDENT\"}"))
+            .andExpect(status().isOk()).andReturn();MockHttpSession session=(MockHttpSession)login.getRequest().getSession(false);
+        mvc.perform(get("/api/rooms/availability").session(session)).andExpect(status().isOk()).andExpect(jsonPath("$").isArray());
+    }
     @Test void connectedPortalRouteIsPublic() throws Exception {mvc.perform(get("/")).andExpect(status().isOk());}
     @Test void alternativesAreMarkedUnconfirmed() throws Exception {mvc.perform(get("/api/faculty/1/alternatives")).andExpect(status().isOk()).andExpect(jsonPath("$[0].certainty").value("UNCONFIRMED"));}
     @Test void uploadedClassSectionsAreSearchable() throws Exception {mvc.perform(get("/api/sections")).andExpect(status().isOk()).andExpect(jsonPath("$",org.hamcrest.Matchers.hasSize(19)));}

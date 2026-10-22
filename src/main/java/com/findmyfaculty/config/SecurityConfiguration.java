@@ -36,6 +36,7 @@ public class SecurityConfiguration {
             .antMatchers("/api/admin/**").hasRole("ADMIN")
             .antMatchers(HttpMethod.POST,"/api/faculty/*/status").hasAnyRole("FACULTY","ADMIN")
             .antMatchers(HttpMethod.POST,"/api/appointments").hasRole("STUDENT")
+            .antMatchers(HttpMethod.GET,"/api/rooms/availability").authenticated()
             .antMatchers(HttpMethod.GET,"/api/faculty/**","/api/rooms/**","/api/sections/**").permitAll()
             .antMatchers("/api/appointments/**").authenticated()
             .anyRequest().authenticated();

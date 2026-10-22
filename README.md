@@ -6,14 +6,14 @@ A Java 11 / Spring Boot portal backed by MySQL, with a single role-checked login
 
 - Responsive, keyboard-accessible login and role-specific dashboards; password show/hide; persistent light/dark theme; session logout; account-recovery guidance.
 - Database-backed login using BCrypt password hashes. The selected login type is checked against the role stored on the account; it is not an authorization source. Admin, faculty, and student routes are protected server-side.
-- Student profile, section timetable and current/next period context, faculty directory/search, appointment requests, notifications, and announcements.
-- Faculty timetable/status view, temporary self-reported status and location with a required expiry, meeting-request workflow, and notifications.
+- Student profile, section timetable and current/next period context, faculty directory/search, appointment requests, notifications, announcements, and schedule-derived room availability.
+- Faculty timetable/status view, temporary self-reported status and location with a required expiry, room availability, meeting-request workflow, and notifications.
 - Admin overview/reports and create/update/deactivate flows for students, faculty profiles, departments, subjects, classrooms, linked accounts, faculty/class timetables, and announcements. Destructive actions are confirmed in the UI; referenced catalog records are deactivated rather than hard-deleted.
 - Normalized JPA entities, MySQL schema/data script, source-derived sample timetables, and integration tests.
 
 ### Data provenance and availability
 
-The seed data preserves the supplied **31 faculty profiles**, **19 class sections**, **528 class timetable slots**, and **214 course rows**. Source-derived faculty/course labels and class-incharge names are retained as provided. No cabin, email, live presence, department, or unverified room is fabricated. Missing values stay empty. `database.sql` includes the five student directory records the user explicitly approved for public deployment (names and IDs), assigned to ADND / III Year / class-05 (S3); they have no login accounts. The SQL script contains no demo passwords or user accounts; a synthetic demo student profile is created only by the isolated preview profile. Availability is labelled **faculty-reported**, **calculated from timetable**, or **not currently known**. Timetable gaps are not represented as proof of availability, and no holiday is inferred from an empty day.
+The seed data preserves the supplied **31 faculty profiles**, **19 class sections**, **528 class timetable slots**, and **214 course rows**. Source-derived faculty/course labels and class-incharge names are retained as provided. No cabin, email, live presence, department, or unverified room is fabricated. Missing values stay empty. `database.sql` includes the five student directory records the user explicitly approved for public deployment (names and IDs), assigned to ADND / III Year / class-05 (S3); the SQL seed creates no login accounts. In the public Render preview only, the single shared demo Student login is linked to VENKATA SANDEEP's approved roster row; the other four rows remain without logins. No separate individual student accounts are created. Faculty availability is labelled **faculty-reported**, **calculated from timetable**, or **not currently known**. Room status is schedule-derived only: **Scheduled now**, **No class listed now**, or **Unknown** when no room timetable evidence exists. These states are not sensor readings and do not prove physical occupancy. The current SQL bootstrap contains 11 room reference rows; room/building details absent from the approved source remain blank.
 
 ### Technology note
 
@@ -73,7 +73,7 @@ PREVIEW_FACULTY_USERNAME=demo-faculty PREVIEW_FACULTY_PASSWORD='replace-with-uni
 SPRING_PROFILES_ACTIVE=preview mvn spring-boot:run
 ```
 
-All passwords must be 12–72 characters. The preview profile permits iframe embedding for the Arena live preview and sets its session cookie `SameSite=None; Secure`. Because some browsers block third-party iframe cookies entirely, preview login also issues a random 30-minute in-memory bearer token only after password/role verification; the browser keeps it in tab-scoped storage and logout revokes it. The production/default profile has no bearer fallback, retains frame denial and `SameSite=Lax`, and uses the regular server session. In preview only, the role selector may read the configured synthetic credentials from a read-only endpoint and autofill the form; all sign-ins still use `POST /api/auth/login` and verify a stored hashed password. No role-only login endpoint exists. The generic demo student login uses a synthetic profile (`DEMO-STU-001`). The preview profile also seeds five user-approved student directory records under the user-provided `ADND` label and the verified `class-05` cohort (III Year, V Semester, S3); those five entries have no individual login accounts. The user has separately approved including these same identifiable records on the intended permanent public site; do not add other personal records without approval. The demo faculty login links to the existing Dr. M. Saraswathi source record (`staff-07`), not a fabricated faculty person. H2 data is ephemeral and is lost when the application stops. Never expose preview credentials or the preview profile in a public production deployment.
+All passwords must be 12–72 characters. The preview profile permits iframe embedding for the Arena live preview and sets its session cookie `SameSite=None; Secure`. Because some browsers block third-party iframe cookies entirely, preview login also issues a random 30-minute in-memory bearer token only after password/role verification; the browser keeps it in tab-scoped storage and logout revokes it. The production/default profile has no bearer fallback, retains frame denial and `SameSite=Lax`, and uses the regular server session. In preview only, the role selector may read the configured synthetic credentials from a read-only endpoint and autofill the form; all sign-ins still use `POST /api/auth/login` and verify a stored hashed password. No role-only login endpoint exists. In the public Render demo, the one shared demo Student login links to the user-approved `VENKATA SANDEEP` roster profile (`11249A290`) in the `ADND` / `class-05` cohort (III Year, V Semester, S3); anyone using the shared demo Student credentials will see that profile. This does not create a separate individual account for Sandeep. The other four user-approved roster entries remain directory-only with no login. The user approved public display of these five records; do not add other personal records without approval. The demo faculty login links to the existing Dr. M. Saraswathi source record (`staff-07`), not a fabricated faculty person. H2 data is ephemeral and is lost when the application stops. Never expose preview credentials or the preview profile in a public production deployment.
 
 ## Build and test
 
@@ -82,7 +82,7 @@ mvn test
 mvn package
 ```
 
-The current automated suite has **17 passing tests** (15 API/session integration tests plus two timetable-data tests). It covers public routes, schedule/section data, session login, generic role-mismatch login failure, unauthenticated and cross-role access control, account disablement during an existing session, admin-created student accounts with hashed passwords and profiles, admin-authored announcement persistence/visibility, and the preview-only bearer fallback with logout revocation.
+The project previously had 17 passing tests. This room-availability update adds unit/API tests for scheduled, not-listed, unknown, period-end, and authenticated-access behavior. Run `mvn test` after applying the update to verify the combined suite. In this sandbox, Maven Central dependency downloads failed during TLS negotiation, so these new tests still need to be run in a standard Java/Maven environment.
 
 ## Test cases and expected results
 
@@ -90,6 +90,8 @@ The current automated suite has **17 passing tests** (15 API/session integration
 |---|---|
 | `GET /api/health` without a session | `200`, `{"status":"ok"}` |
 | `GET /api/faculty`, `GET /api/sections` | `200`; source set has 31 profiles and 19 sections |
+| Anonymous `GET /api/rooms/availability` | `401`; room availability requires a signed-in user |
+| Signed-in `GET /api/rooms/availability` | `200`; schedule-derived room states, with Unknown when timetable evidence is missing |
 | Login with matching username/password and login type | `200`; session is established from the stored account role |
 | Correct password but mismatched login type | Generic `401 Invalid username or password` |
 | Missing/invalid credentials | `401`; no account-existence detail is disclosed |
@@ -111,6 +113,7 @@ The tests use H2 and do not substitute for a MySQL 8 acceptance test.
 - Students: `GET/PUT /api/students/me`, `GET /api/students/me/timetable`, `GET /api/students/me/today`
 - Faculty: `GET /api/faculty/me/status`, `GET /api/faculty/me/timetable`, `POST/DELETE /api/faculty/{id}/status`
 - Portal: `GET /api/announcements`, `GET /api/notifications`, `POST /api/notifications/{id}/read`
+- Rooms: authenticated `GET /api/rooms/availability` returns active room records with schedule-derived status and current/next listed slots. It is not a live occupancy feed; missing room assignments remain Unknown.
 - Meetings: `POST /api/appointments`, `GET /api/appointments/mine`, `PUT /api/appointments/{id}/decision`
 - Admin: `/api/admin/summary`, `/api/admin/reports/overview`, and CRUD routes for `/students`, `/faculty`, `/departments`, `/subjects`, `/classrooms`, `/accounts`, `/timetables/faculty`, `/timetables/classes`, and `/announcements`.
 
@@ -151,7 +154,7 @@ find-my-faculty-backend/
 
 ## Verification notes
 
-- Maven compile and all 17 automated tests pass in the provided environment, including preview directory-only student records and the Saraswathi faculty login mapping.
+- Maven compile and all 17 automated tests pass, including the Render preview case where the single shared Student demo login maps to VENKATA SANDEEP / 11249A290, the remaining four approved roster rows stay login-disabled, and the Saraswathi faculty mapping.
 - The live Cloudflare preview was smoke-tested against H2: CORS-origin login, source counts, all five approved student directory records, the student-record no-login state, and Dr. M. Saraswathi's S3 timetable returned expected responses. Earlier checks also covered role blocking, admin summary, announcements, status, and appointment APIs.
 - Chromium QA covered all 10 Admin navigation pages at desktop (1440 px) and mobile (390 px) widths: no page overflow or uncaught page errors; student-table headers/cells align and actions do not overlap. On mobile, directory rows display as labeled cards.
 - Docker is not installed in the provided environment, so the MySQL container, MySQL 8 import, and persistent MySQL workflow were not executed here. Run the MySQL steps above in an environment with Docker/MySQL before production use.
