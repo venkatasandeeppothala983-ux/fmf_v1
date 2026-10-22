@@ -11,40 +11,40 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "CB",
             "room": null,
             "sourceText": "CB"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Digital / Marketing/ / Disaster",
             "room": null,
             "sourceText": "Digital Marketing/ Disaster"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "MOOC COURSE",
             "room": null,
             "sourceText": "MOOC COURSE"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "Project Work / P-I",
             "room": null,
             "sourceText": "Project Work P-I"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Project Work P-I",
             "room": null,
             "sourceText": "Project Work P-I"
@@ -56,56 +56,56 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Digital / Marketing/ / Disaster",
             "room": null,
             "sourceText": "Digital Marketing/ Disaster"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "ITP",
             "room": null,
             "sourceText": "ITP"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "CA/VUL",
             "room": null,
             "sourceText": "CA/VUL"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "ITP",
             "room": null,
             "sourceText": "ITP"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "Project Work / P-I",
             "room": null,
             "sourceText": "Project Work P-I"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "CA/VUL",
             "room": null,
             "sourceText": "CA/VUL"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "Project Work / P-I",
             "room": null,
             "sourceText": "Project Work P-I"
@@ -117,40 +117,40 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Digital / Marketing/ / Disaster",
             "room": null,
             "sourceText": "Digital Marketing/ Disaster"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "ITP",
             "room": null,
             "sourceText": "ITP"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "CB",
             "room": null,
             "sourceText": "CB"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "Project Work / P-I",
             "room": null,
             "sourceText": "Project Work P-I"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Project Work P-I",
             "room": null,
             "sourceText": "Project Work P-I"
@@ -162,40 +162,40 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "ITP",
             "room": null,
             "sourceText": "ITP"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "CB",
             "room": null,
             "sourceText": "CB"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Project Work P-I",
             "room": null,
             "sourceText": "Project Work P-I"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Project Work / P-I",
             "room": null,
             "sourceText": "Project Work P-I"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "CI",
             "room": null,
             "sourceText": "CI"
@@ -207,32 +207,32 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Project Work P-I",
             "room": null,
             "sourceText": "Project Work P-I"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "CA/VUL",
             "room": null,
             "sourceText": "CA/VUL"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Project Work P-I",
             "room": null,
             "sourceText": "Project Work P-I"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Project Work P-I",
             "room": null,
             "sourceText": "Project Work P-I"
@@ -296,40 +296,40 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "IOT/Project",
             "room": null,
             "sourceText": "IOT/Project"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Digital / Marketing/ / Disaster",
             "room": null,
             "sourceText": "Digital Marketing/ Disaster"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "MOOC COURSE",
             "room": null,
             "sourceText": "MOOC COURSE"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "ROBOTIC LAB",
             "room": null,
             "sourceText": "ROBOTIC LAB"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "IOT/ROBOTIC LAB",
             "room": null,
             "sourceText": "IOT/ROBOTIC LAB"
@@ -341,48 +341,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Digital / Marketing/ / Disaster",
             "room": null,
             "sourceText": "Digital Marketing/ Disaster"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "ITP",
             "room": null,
             "sourceText": "ITP"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "CA/VUL/IOT",
             "room": null,
             "sourceText": "CA/VUL/IOT"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "ITP",
             "room": null,
             "sourceText": "ITP"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "CA/VUL/IOT",
             "room": null,
             "sourceText": "CA/VUL/IOT"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "Project Work / P-I",
             "room": null,
             "sourceText": "Project Work P-I"
@@ -394,32 +394,32 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Digital / Marketing/ / Disaster",
             "room": null,
             "sourceText": "Digital Marketing/ Disaster"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "CB/MC",
             "room": null,
             "sourceText": "CB/MC"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Project Work P-I",
             "room": null,
             "sourceText": "Project Work P-I"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Project Work P-I",
             "room": null,
             "sourceText": "Project Work P-I"
@@ -431,40 +431,40 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "ITP",
             "room": null,
             "sourceText": "ITP"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "CB/MC",
             "room": null,
             "sourceText": "CB/MC"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Project Work P-I",
             "room": null,
             "sourceText": "Project Work P-I"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Project Work / P-I",
             "room": null,
             "sourceText": "Project Work P-I"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "CI",
             "room": null,
             "sourceText": "CI"
@@ -476,48 +476,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "CB/MC",
             "room": null,
             "sourceText": "CB/MC"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "ITP",
             "room": null,
             "sourceText": "ITP"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "CA/VUL/IOT",
             "room": null,
             "sourceText": "CA/VUL/IOT"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "ITP",
             "room": null,
             "sourceText": "ITP"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "Project Work / P-I",
             "room": null,
             "sourceText": "Project Work P-I"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Project Work P-I",
             "room": null,
             "sourceText": "Project Work P-I"
@@ -596,32 +596,32 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Automata / Theory",
             "room": null,
             "sourceText": "Automata Theory"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Computer Networks Lab",
             "room": "Computer Lab -2",
             "sourceText": "Computer Networks Lab Computer Lab -2"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "Natural / Language / Processing",
             "room": null,
             "sourceText": "Natural Language Processing"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Soft Skill",
             "room": null,
             "sourceText": "Soft Skill"
@@ -633,48 +633,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Professional / Elective-I",
             "room": null,
             "sourceText": "Professional Elective-I"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Automata / Theory",
             "room": null,
             "sourceText": "Automata Theory"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Programming / in Java",
             "room": null,
             "sourceText": "Programming in Java"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Computer / Networks",
             "room": null,
             "sourceText": "Computer Networks"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "DBMS Lab",
             "room": null,
             "sourceText": "DBMS Lab"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "DBMS Lab",
             "room": "Computer Lab -3",
             "sourceText": "DBMS Lab Computer Lab -3"
@@ -686,40 +686,40 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Computer / Networks",
             "room": null,
             "sourceText": "Computer Networks"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Programming in JAVA Lab",
             "room": "MAD Lab",
             "sourceText": "Programming in JAVA Lab MAD Lab"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "CI",
             "room": null,
             "sourceText": "CI"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "DBMS",
             "room": null,
             "sourceText": "DBMS"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "YOGA",
             "room": null,
             "sourceText": "YOGA"
@@ -731,48 +731,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Professional / Elective-I",
             "room": null,
             "sourceText": "Professional Elective-I"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Natural / Language / Processing",
             "room": null,
             "sourceText": "Natural Language Processing"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "DBMS",
             "room": null,
             "sourceText": "DBMS"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Programming / in Java",
             "room": null,
             "sourceText": "Programming in Java"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "NLP Lab",
             "room": null,
             "sourceText": "NLP Lab"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "NLP Lab",
             "room": "DELL Lab",
             "sourceText": "NLP Lab DELL Lab"
@@ -784,56 +784,56 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "DBMS",
             "room": null,
             "sourceText": "DBMS"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Computer / Networks",
             "room": null,
             "sourceText": "Computer Networks"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Professional / Elective-I",
             "room": null,
             "sourceText": "Professional Elective-I"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Natural / Language / Processing",
             "room": null,
             "sourceText": "Natural Language Processing"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "Automata / Theory",
             "room": null,
             "sourceText": "Automata Theory"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Programming / in Java",
             "room": null,
             "sourceText": "Programming in Java"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "Automata / Theory",
             "room": null,
             "sourceText": "Automata Theory"
@@ -917,40 +917,40 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Programming / in Java",
             "room": null,
             "sourceText": "Programming in Java"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "DBMS Lab",
             "room": "Computer Lab -3",
             "sourceText": "DBMS Lab Computer Lab -3"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "Computer / Networks",
             "room": null,
             "sourceText": "Computer Networks"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Automata / Theory",
             "room": null,
             "sourceText": "Automata Theory"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "Natural / Language / Processing",
             "room": null,
             "sourceText": "Natural Language Processing"
@@ -962,48 +962,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Professional / Elective-I",
             "room": null,
             "sourceText": "Professional Elective-I"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Natural / Language / Processing",
             "room": null,
             "sourceText": "Natural Language Processing"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "DBMS",
             "room": null,
             "sourceText": "DBMS"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Computer / Networks",
             "room": null,
             "sourceText": "Computer Networks"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "JAVA Lab",
             "room": null,
             "sourceText": "JAVA Lab"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Programming in JAVA Lab",
             "room": "MAD Lab",
             "sourceText": "Programming in JAVA Lab MAD Lab"
@@ -1015,48 +1015,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Automata / Theory",
             "room": null,
             "sourceText": "Automata Theory"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "DBMS",
             "room": null,
             "sourceText": "DBMS"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Automata / Theory",
             "room": null,
             "sourceText": "Automata Theory"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Programming / in Java",
             "room": null,
             "sourceText": "Programming in Java"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "YOGA",
             "room": null,
             "sourceText": "YOGA"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Soft Skill",
             "room": null,
             "sourceText": "Soft Skill"
@@ -1068,40 +1068,40 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Professional / Elective-I",
             "room": null,
             "sourceText": "Professional Elective-I"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Computer Networks Lab",
             "room": "Computer Lab -2",
             "sourceText": "Computer Networks Lab Computer Lab -2"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "Automata / Theory",
             "room": null,
             "sourceText": "Automata Theory"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Natural / Language / Processing",
             "room": null,
             "sourceText": "Natural Language Processing"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "CI",
             "room": null,
             "sourceText": "CI"
@@ -1113,48 +1113,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Computer / Networks",
             "room": null,
             "sourceText": "Computer Networks"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Programming / in Java",
             "room": null,
             "sourceText": "Programming in Java"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Professional / Elective-I",
             "room": null,
             "sourceText": "Professional Elective-I"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "DBMS",
             "room": null,
             "sourceText": "DBMS"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "NLP Lab",
             "room": null,
             "sourceText": "NLP Lab"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "NLP Lab",
             "room": "DELL Lab",
             "sourceText": "NLP Lab DELL Lab"
@@ -1238,56 +1238,56 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Automata / Theory",
             "room": null,
             "sourceText": "Automata Theory"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "DBMS",
             "room": null,
             "sourceText": "DBMS"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Automata / Theory",
             "room": null,
             "sourceText": "Automata Theory"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Natural / Language / Processing",
             "room": null,
             "sourceText": "Natural Language Processing"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "CI",
             "room": null,
             "sourceText": "CI"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Programming / in Java",
             "room": null,
             "sourceText": "Programming in Java"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "YOGA",
             "room": null,
             "sourceText": "YOGA"
@@ -1299,32 +1299,32 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Professional / Elective-I",
             "room": null,
             "sourceText": "Professional Elective-I"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Computer Networks Lab",
             "room": "Computer Lab -2",
             "sourceText": "Computer Networks Lab Computer Lab -2"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "Natural / Language / Processing",
             "room": null,
             "sourceText": "Natural Language Processing"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Soft Skill",
             "room": null,
             "sourceText": "Soft Skill"
@@ -1336,40 +1336,40 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Computer / Networks",
             "room": null,
             "sourceText": "Computer Networks"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "NLP Lab",
             "room": "DELL Lab",
             "sourceText": "NLP Lab DELL Lab"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "Programming / in Java",
             "room": null,
             "sourceText": "Programming in Java"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Natural / Language / Processing",
             "room": null,
             "sourceText": "Natural Language Processing"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "DBMS",
             "room": null,
             "sourceText": "DBMS"
@@ -1381,48 +1381,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Professional / Elective-I",
             "room": null,
             "sourceText": "Professional Elective-I"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Computer / Networks",
             "room": null,
             "sourceText": "Computer Networks"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Programming / in Java",
             "room": null,
             "sourceText": "Programming in Java"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Automata / Theory",
             "room": null,
             "sourceText": "Automata Theory"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "JAVA Lab",
             "room": null,
             "sourceText": "JAVA Lab"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Programming in JAVA Lab",
             "room": "MAD Lab",
             "sourceText": "Programming in JAVA Lab MAD Lab"
@@ -1434,48 +1434,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "DBMS",
             "room": null,
             "sourceText": "DBMS"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Automata / Theory",
             "room": null,
             "sourceText": "Automata Theory"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Professional / Elective-I",
             "room": null,
             "sourceText": "Professional Elective-I"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Computer / Networks",
             "room": null,
             "sourceText": "Computer Networks"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "DBMS Lab",
             "room": null,
             "sourceText": "DBMS Lab"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "DBMS Lab",
             "room": "Computer Lab -3",
             "sourceText": "DBMS Lab Computer Lab -3"
@@ -1545,7 +1545,7 @@
         "faculty": ""
       }
     ],
-    "source": "Class Time Table Jul 2026.pdf"
+    "source": "Odd Semester Time Table (Aug 2026-Dec 2026)"
   },
   {
     "id": "class-06",
@@ -1559,48 +1559,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Natural / Language / Processing",
             "room": null,
             "sourceText": "Natural Language Processing"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Computer / Networks",
             "room": null,
             "sourceText": "Computer Networks"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Automata / Theory",
             "room": null,
             "sourceText": "Automata Theory"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Programming / in Java",
             "room": null,
             "sourceText": "Programming in Java"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "CN LAB",
             "room": null,
             "sourceText": "CN LAB"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Computer Networks Lab",
             "room": "Computer Lab -2",
             "sourceText": "Computer Networks Lab Computer Lab -2"
@@ -1612,40 +1612,40 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Professional / Elective-I",
             "room": null,
             "sourceText": "Professional Elective-I"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Programming in JAVA Lab",
             "room": "MAD Lab",
             "sourceText": "Programming in JAVA Lab MAD Lab"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "DBMS",
             "room": null,
             "sourceText": "DBMS"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Natural / Language / Processing",
             "room": null,
             "sourceText": "Natural Language Processing"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "CI",
             "room": null,
             "sourceText": "CI"
@@ -1657,48 +1657,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "DBMS",
             "room": null,
             "sourceText": "DBMS"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Programming / in Java",
             "room": null,
             "sourceText": "Programming in Java"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Automata / Theory",
             "room": null,
             "sourceText": "Automata Theory"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Computer / Networks",
             "room": null,
             "sourceText": "Computer Networks"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "NLP Lab",
             "room": null,
             "sourceText": "NLP Lab"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "NLP Lab",
             "room": "DELL Lab",
             "sourceText": "NLP Lab DELL Lab"
@@ -1710,40 +1710,40 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Professional / Elective-I",
             "room": null,
             "sourceText": "Professional Elective-I"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "DBMS Lab",
             "room": "Computer Lab -3",
             "sourceText": "DBMS Lab Computer Lab -3"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "Programming / in Java",
             "room": null,
             "sourceText": "Programming in Java"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Automata / Theory",
             "room": null,
             "sourceText": "Automata Theory"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "YOGA",
             "room": null,
             "sourceText": "YOGA"
@@ -1755,48 +1755,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Automata / Theory",
             "room": null,
             "sourceText": "Automata Theory"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Natural / Language / Processing",
             "room": null,
             "sourceText": "Natural Language Processing"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Professional / Elective-I",
             "room": null,
             "sourceText": "Professional Elective-I"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "DBMS",
             "room": null,
             "sourceText": "DBMS"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "Computer / Networks",
             "room": null,
             "sourceText": "Computer Networks"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Soft Skill",
             "room": null,
             "sourceText": "Soft Skill"
@@ -1880,56 +1880,56 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Natural / Language / Processing",
             "room": null,
             "sourceText": "Natural Language Processing"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Professional / Elective-I",
             "room": null,
             "sourceText": "Professional Elective-I"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Automata / Theory",
             "room": null,
             "sourceText": "Automata Theory"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Professional / Elective-I",
             "room": null,
             "sourceText": "Professional Elective-I"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "YOGA",
             "room": null,
             "sourceText": "YOGA"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "DBMS",
             "room": null,
             "sourceText": "DBMS"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "Programming / in Java",
             "room": null,
             "sourceText": "Programming in Java"
@@ -1941,48 +1941,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Computer / Networks",
             "room": null,
             "sourceText": "Computer Networks"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Automata / Theory",
             "room": null,
             "sourceText": "Automata Theory"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "DBMS",
             "room": null,
             "sourceText": "DBMS"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Natural / Language / Processing",
             "room": null,
             "sourceText": "Natural Language Processing"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "CN LAB",
             "room": null,
             "sourceText": "CN LAB"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Computer Networks Lab",
             "room": "Computer Lab -2",
             "sourceText": "Computer Networks Lab Computer Lab -2"
@@ -1994,40 +1994,40 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Professional / Elective-I",
             "room": null,
             "sourceText": "Professional Elective-I"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "DBMS Lab",
             "room": "Computer Lab -3",
             "sourceText": "DBMS Lab Computer Lab -3"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "CI",
             "room": null,
             "sourceText": "CI"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Programming / in Java",
             "room": null,
             "sourceText": "Programming in Java"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "DBMS",
             "room": null,
             "sourceText": "DBMS"
@@ -2039,32 +2039,32 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Automata / Theory",
             "room": null,
             "sourceText": "Automata Theory"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Data Visualization Lab",
             "room": "DELL Lab",
             "sourceText": "Data Visualization Lab DELL Lab"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "Computer / Networks",
             "room": null,
             "sourceText": "Computer Networks"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Soft Skill",
             "room": null,
             "sourceText": "Soft Skill"
@@ -2076,48 +2076,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Programming / in Java",
             "room": null,
             "sourceText": "Programming in Java"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Natural / Language / Processing",
             "room": null,
             "sourceText": "Natural Language Processing"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Computer / Networks",
             "room": null,
             "sourceText": "Computer Networks"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Automata / Theory",
             "room": null,
             "sourceText": "Automata Theory"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "JAVA Lab",
             "room": null,
             "sourceText": "JAVA Lab"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Programming in JAVA Lab",
             "room": "MAD Lab",
             "sourceText": "Programming in JAVA Lab MAD Lab"
@@ -2201,48 +2201,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "DBMS",
             "room": null,
             "sourceText": "DBMS"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Professional / Elective-I",
             "room": null,
             "sourceText": "Professional Elective-I"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Computer / Networks",
             "room": null,
             "sourceText": "Computer Networks"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Professional / Elective-I",
             "room": null,
             "sourceText": "Professional Elective-I"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "NLP LAB \\ / Computer",
             "room": "Lab-3",
             "sourceText": "NLP LAB \\ Computer Lab-3"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Data Visualization Lab",
             "room": "DELL Lab",
             "sourceText": "Data Visualization Lab DELL Lab"
@@ -2254,40 +2254,40 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Natural / Language / Processing",
             "room": null,
             "sourceText": "Natural Language Processing"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "DBMS Lab",
             "room": "Computer Lab -3",
             "sourceText": "DBMS Lab Computer Lab -3"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "CI",
             "room": null,
             "sourceText": "CI"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Automata / Theory",
             "room": null,
             "sourceText": "Automata Theory"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "YOGA",
             "room": null,
             "sourceText": "YOGA"
@@ -2299,48 +2299,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Professional / Elective-I",
             "room": null,
             "sourceText": "Professional Elective-I"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Programming / in Java",
             "room": null,
             "sourceText": "Programming in Java"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "DBMS",
             "room": null,
             "sourceText": "DBMS"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Automata / Theory",
             "room": null,
             "sourceText": "Automata Theory"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "CN LAB",
             "room": null,
             "sourceText": "CN LAB"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Computer Networks Lab",
             "room": "Computer Lab -2",
             "sourceText": "Computer Networks Lab Computer Lab -2"
@@ -2352,40 +2352,40 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Natural / Language / Processing",
             "room": null,
             "sourceText": "Natural Language Processing"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Programming in JAVA Lab",
             "room": "MAD Lab",
             "sourceText": "Programming in JAVA Lab MAD Lab"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "Automata / Theory",
             "room": null,
             "sourceText": "Automata Theory"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Programming / in Java",
             "room": null,
             "sourceText": "Programming in Java"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "Computer / Networks",
             "room": null,
             "sourceText": "Computer Networks"
@@ -2397,48 +2397,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Computer / Networks",
             "room": null,
             "sourceText": "Computer Networks"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Automata / Theory",
             "room": null,
             "sourceText": "Automata Theory"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "DBMS",
             "room": null,
             "sourceText": "DBMS"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Soft Skill",
             "room": null,
             "sourceText": "Soft Skill"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Natural / Language / Processing",
             "room": null,
             "sourceText": "Natural Language Processing"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "Programming / in Java",
             "room": null,
             "sourceText": "Programming in Java"
@@ -2522,48 +2522,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Computer / Networks",
             "room": null,
             "sourceText": "Computer Networks"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Professional / Elective-I",
             "room": null,
             "sourceText": "Professional Elective-I"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Automata / Theory",
             "room": null,
             "sourceText": "Automata Theory"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Professional / Elective-I",
             "room": null,
             "sourceText": "Professional Elective-I"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "NLP / DV LAB /",
             "room": null,
             "sourceText": "NLP / DV LAB /"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Database & Network Security / Lab",
             "room": "Lab-3 / DELL Lab /MAD Lab",
             "sourceText": "Database & Network Security Lab Lab-3 / DELL Lab /MAD Lab"
@@ -2575,48 +2575,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Honors",
             "room": null,
             "sourceText": "Honors"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Programming / in Java",
             "room": null,
             "sourceText": "Programming in Java"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Computer / Networks",
             "room": null,
             "sourceText": "Computer Networks"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Soft Skill",
             "room": null,
             "sourceText": "Soft Skill"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Automata / Theory",
             "room": null,
             "sourceText": "Automata Theory"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "DBMS",
             "room": null,
             "sourceText": "DBMS"
@@ -2628,40 +2628,40 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Professional / Elective-I",
             "room": null,
             "sourceText": "Professional Elective-I"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Computer Networks Lab",
             "room": "Computer Lab -2",
             "sourceText": "Computer Networks Lab Computer Lab -2"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "Automata / Theory",
             "room": null,
             "sourceText": "Automata Theory"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Programming / in Java",
             "room": null,
             "sourceText": "Programming in Java"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "CI",
             "room": null,
             "sourceText": "CI"
@@ -2673,48 +2673,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Honors",
             "room": null,
             "sourceText": "Honors"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Automata / Theory",
             "room": null,
             "sourceText": "Automata Theory"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "DBMS",
             "room": null,
             "sourceText": "DBMS"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Computer / Networks",
             "room": null,
             "sourceText": "Computer Networks"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "DBMS Lab",
             "room": null,
             "sourceText": "DBMS Lab"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "DBMS Lab",
             "room": "Computer Lab -3",
             "sourceText": "DBMS Lab Computer Lab -3"
@@ -2726,40 +2726,40 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "DBMS",
             "room": null,
             "sourceText": "DBMS"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Programming in JAVA Lab",
             "room": "MAD Lab",
             "sourceText": "Programming in JAVA Lab MAD Lab"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "YOGA",
             "room": null,
             "sourceText": "YOGA"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Honors",
             "room": null,
             "sourceText": "Honors"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "Programming / in Java",
             "room": null,
             "sourceText": "Programming in Java"
@@ -2868,48 +2868,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Computer / Networks",
             "room": null,
             "sourceText": "Computer Networks"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Principle of / Communication",
             "room": null,
             "sourceText": "Principle of Communication"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Automata / Theory",
             "room": null,
             "sourceText": "Automata Theory"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Principle of / Communication",
             "room": null,
             "sourceText": "Principle of Communication"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "NLP / DV LAB /",
             "room": null,
             "sourceText": "NLP / DV LAB /"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Database & Network Security / Lab",
             "room": "Lab-3 / DELL Lab /MAD Lab",
             "sourceText": "Database & Network Security Lab Lab-3 / DELL Lab /MAD Lab"
@@ -2921,48 +2921,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Honors",
             "room": null,
             "sourceText": "Honors"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Programming / in Java",
             "room": null,
             "sourceText": "Programming in Java"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Computer / Networks",
             "room": null,
             "sourceText": "Computer Networks"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Soft Skill",
             "room": null,
             "sourceText": "Soft Skill"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Automata / Theory",
             "room": null,
             "sourceText": "Automata Theory"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "DBMS",
             "room": null,
             "sourceText": "DBMS"
@@ -2974,40 +2974,40 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Principle of / Communication",
             "room": null,
             "sourceText": "Principle of Communication"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "IT Workshop (SCi Lab)",
             "room": "Computer Lab - 3",
             "sourceText": "IT Workshop (SCi Lab) Computer Lab - 3"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "Automata / Theory",
             "room": null,
             "sourceText": "Automata Theory"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Programming / in Java",
             "room": null,
             "sourceText": "Programming in Java"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "CI",
             "room": null,
             "sourceText": "CI"
@@ -3019,48 +3019,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Honors",
             "room": null,
             "sourceText": "Honors"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Automata / Theory",
             "room": null,
             "sourceText": "Automata Theory"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "DBMS",
             "room": null,
             "sourceText": "DBMS"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Computer / Networks",
             "room": null,
             "sourceText": "Computer Networks"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "DBMS Lab",
             "room": null,
             "sourceText": "DBMS Lab"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "DBMS Lab",
             "room": "Computer Lab -3",
             "sourceText": "DBMS Lab Computer Lab -3"
@@ -3072,40 +3072,40 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "DBMS",
             "room": null,
             "sourceText": "DBMS"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Programming in JAVA Lab",
             "room": "MAD Lab",
             "sourceText": "Programming in JAVA Lab MAD Lab"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "YOGA",
             "room": null,
             "sourceText": "YOGA"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Honors",
             "room": null,
             "sourceText": "Honors"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "Programming / in Java",
             "room": null,
             "sourceText": "Programming in Java"
@@ -3209,48 +3209,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Fundamentals / of ML",
             "room": null,
             "sourceText": "Fundamentals of ML"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Data Structures / and Algorithms",
             "room": null,
             "sourceText": "Data Structures and Algorithms"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Computer / Organization / & Architecture",
             "room": null,
             "sourceText": "Computer Organization & Architecture"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "CI",
             "room": null,
             "sourceText": "CI"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "DLD \\ COA / LAB",
             "room": null,
             "sourceText": "DLD \\ COA LAB"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Digital Logic Design / / Computer Organization &",
             "room": "Architecture Computer Lab-4",
             "sourceText": "Digital Logic Design / Computer Organization & Architecture Computer Lab-4"
@@ -3262,48 +3262,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Computer / Organization / & Architecture",
             "room": null,
             "sourceText": "Computer Organization & Architecture"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Probability / and Statistics",
             "room": null,
             "sourceText": "Probability and Statistics"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Digital Logic / Design",
             "room": null,
             "sourceText": "Digital Logic Design"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Fundamentals of / ML",
             "room": null,
             "sourceText": "Fundamentals of ML"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "DLD \\ COA / LAB",
             "room": null,
             "sourceText": "DLD \\ COA LAB"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Digital Logic Design / / Computer Organization &",
             "room": "Architecture Computer Lab-4",
             "sourceText": "Digital Logic Design / Computer Organization & Architecture Computer Lab-4"
@@ -3315,40 +3315,40 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Data Structures and Algorithms",
             "room": "Computer Lab - 1",
             "sourceText": "Data Structures and Algorithms Computer Lab - 1"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Intelligent / Systems",
             "room": null,
             "sourceText": "Intelligent Systems"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "Probability / and Statistics",
             "room": null,
             "sourceText": "Probability and Statistics"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Data Structures / and Algorithms",
             "room": null,
             "sourceText": "Data Structures and Algorithms"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "YOGA",
             "room": null,
             "sourceText": "YOGA"
@@ -3360,48 +3360,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Probability and / Statistics",
             "room": null,
             "sourceText": "Probability and Statistics"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Fundamentals / of ML",
             "room": null,
             "sourceText": "Fundamentals of ML"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Data Structures / and Algorithms",
             "room": null,
             "sourceText": "Data Structures and Algorithms"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Digital Logic / Design",
             "room": null,
             "sourceText": "Digital Logic Design"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "FML LAB",
             "room": null,
             "sourceText": "FML LAB"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Fundamentals of Machine / Learning",
             "room": "Computer Lab - 5",
             "sourceText": "Fundamentals of Machine Learning Computer Lab - 5"
@@ -3413,48 +3413,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Digital Logic / Design",
             "room": null,
             "sourceText": "Digital Logic Design"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Probability / and Statistics",
             "room": null,
             "sourceText": "Probability and Statistics"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Computer / Organization / & Architecture",
             "room": null,
             "sourceText": "Computer Organization & Architecture"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Soft Skills-II",
             "room": null,
             "sourceText": "Soft Skills-II"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Intelligent / Systems",
             "room": null,
             "sourceText": "Intelligent Systems"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "Intelligent / Systems",
             "room": null,
             "sourceText": "Intelligent Systems"
@@ -3528,56 +3528,56 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Fundamentals / of ML",
             "room": null,
             "sourceText": "Fundamentals of ML"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Probability / and Statistics",
             "room": null,
             "sourceText": "Probability and Statistics"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Fundamentals / of ML",
             "room": null,
             "sourceText": "Fundamentals of ML"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Data Structures / and Algorithms",
             "room": null,
             "sourceText": "Data Structures and Algorithms"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "Computer / Organization / & Architecture",
             "room": null,
             "sourceText": "Computer Organization & Architecture"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Digital Logic / Design",
             "room": null,
             "sourceText": "Digital Logic Design"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "YOGA",
             "room": null,
             "sourceText": "YOGA"
@@ -3589,48 +3589,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Probability / and Statistics",
             "room": null,
             "sourceText": "Probability and Statistics"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Digital Logic / Design",
             "room": null,
             "sourceText": "Digital Logic Design"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Data Structures / and Algorithms",
             "room": null,
             "sourceText": "Data Structures and Algorithms"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "CI",
             "room": null,
             "sourceText": "CI"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "DSA Lab",
             "room": null,
             "sourceText": "DSA Lab"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Data Structures and Algorithms",
             "room": "Computer Lab - 1",
             "sourceText": "Data Structures and Algorithms Computer Lab - 1"
@@ -3642,48 +3642,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Digital Logic / Design",
             "room": null,
             "sourceText": "Digital Logic Design"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Computer / Organization / & Architecture",
             "room": null,
             "sourceText": "Computer Organization & Architecture"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Fundamentals / of ML",
             "room": null,
             "sourceText": "Fundamentals of ML"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Intelligent / Systems",
             "room": null,
             "sourceText": "Intelligent Systems"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "FML LAB",
             "room": null,
             "sourceText": "FML LAB"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Fundamentals of Machine / Learning",
             "room": "Computer Lab - 5",
             "sourceText": "Fundamentals of Machine Learning Computer Lab - 5"
@@ -3695,32 +3695,32 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Computer / Organization / & Architecture",
             "room": null,
             "sourceText": "Computer Organization & Architecture"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Digital Logic Design / / Computer Organization & Architecture",
             "room": "Computer Lab-4",
             "sourceText": "Digital Logic Design / Computer Organization & Architecture Computer Lab-4"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "Data Structures / and Algorithms",
             "room": null,
             "sourceText": "Data Structures and Algorithms"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Soft Skills-II",
             "room": null,
             "sourceText": "Soft Skills-II"
@@ -3732,40 +3732,40 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Probability / and Statistics",
             "room": null,
             "sourceText": "Probability and Statistics"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Digital Logic Design / / Computer Organization & Architecture",
             "room": "Computer Lab-4",
             "sourceText": "Digital Logic Design / Computer Organization & Architecture Computer Lab-4"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "Probability / and Statistics",
             "room": null,
             "sourceText": "Probability and Statistics"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Intelligent / Systems",
             "room": null,
             "sourceText": "Intelligent Systems"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "Intelligent / Systems",
             "room": null,
             "sourceText": "Intelligent Systems"
@@ -3839,48 +3839,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Digital Logic / Design",
             "room": null,
             "sourceText": "Digital Logic Design"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Probability / and Statistics",
             "room": null,
             "sourceText": "Probability and Statistics"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Fundamentals / of ML",
             "room": null,
             "sourceText": "Fundamentals of ML"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Data Structures / and Algorithms",
             "room": null,
             "sourceText": "Data Structures and Algorithms"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "DSA Lab",
             "room": null,
             "sourceText": "DSA Lab"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Data Structures and Algorithms",
             "room": "Computer Lab - 1",
             "sourceText": "Data Structures and Algorithms Computer Lab - 1"
@@ -3892,40 +3892,40 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Fundamentals / of ML",
             "room": null,
             "sourceText": "Fundamentals of ML"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Digital Logic Design / / Computer Organization & Architecture",
             "room": "Computer Lab-4",
             "sourceText": "Digital Logic Design / Computer Organization & Architecture Computer Lab-4"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "Probability / and Statistics",
             "room": null,
             "sourceText": "Probability and Statistics"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Computer / Organization / & Architecture",
             "room": null,
             "sourceText": "Computer Organization & Architecture"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "YOGA",
             "room": null,
             "sourceText": "YOGA"
@@ -3937,48 +3937,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Probability / and Statistics",
             "room": null,
             "sourceText": "Probability and Statistics"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Digital Logic / Design",
             "room": null,
             "sourceText": "Digital Logic Design"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Data Structures / and Algorithms",
             "room": null,
             "sourceText": "Data Structures and Algorithms"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "*Honors",
             "room": null,
             "sourceText": "*Honors"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "CI",
             "room": null,
             "sourceText": "CI"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Soft Skills-II",
             "room": null,
             "sourceText": "Soft Skills-II"
@@ -3990,40 +3990,40 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Computer / Organization / & Architecture",
             "room": null,
             "sourceText": "Computer Organization & Architecture"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Fundamentals of Machine Learning",
             "room": "Computer Lab - 5",
             "sourceText": "Fundamentals of Machine Learning Computer Lab - 5"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "Computer / Organization / & Architecture",
             "room": null,
             "sourceText": "Computer Organization & Architecture"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Data Structures / and Algorithms",
             "room": null,
             "sourceText": "Data Structures and Algorithms"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "*Honors",
             "room": null,
             "sourceText": "*Honors"
@@ -4035,48 +4035,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "*Honors",
             "room": null,
             "sourceText": "*Honors"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Probability / and Statistics",
             "room": null,
             "sourceText": "Probability and Statistics"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Digital Logic / Design",
             "room": null,
             "sourceText": "Digital Logic Design"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Fundamentals / of ML",
             "room": null,
             "sourceText": "Fundamentals of ML"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "DLD \\ COA LAB",
             "room": null,
             "sourceText": "DLD \\ COA LAB"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Digital Logic Design / / Computer Organization &",
             "room": "Architecture Computer Lab-4",
             "sourceText": "Digital Logic Design / Computer Organization & Architecture Computer Lab-4"
@@ -4150,40 +4150,40 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Probability / and Statistics",
             "room": null,
             "sourceText": "Probability and Statistics"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Data Structures and Algorithms",
             "room": "Computer Lab - 1",
             "sourceText": "Data Structures and Algorithms Computer Lab - 1"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "*Honors",
             "room": null,
             "sourceText": "*Honors"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Digital Logic / Design",
             "room": null,
             "sourceText": "Digital Logic Design"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "CI",
             "room": null,
             "sourceText": "CI"
@@ -4195,48 +4195,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Digital Logic / Design",
             "room": null,
             "sourceText": "Digital Logic Design"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "*Honors",
             "room": null,
             "sourceText": "*Honors"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Computer / Organization / & Architecture",
             "room": null,
             "sourceText": "Computer Organization & Architecture"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Fundamentals / of ML",
             "room": null,
             "sourceText": "Fundamentals of ML"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "Probability / and Statistics",
             "room": null,
             "sourceText": "Probability and Statistics"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Soft Skills-II",
             "room": null,
             "sourceText": "Soft Skills-II"
@@ -4248,40 +4248,40 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Computer / Organization / & Architecture",
             "room": null,
             "sourceText": "Computer Organization & Architecture"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Digital Logic Design / / Computer Organization & Architecture",
             "room": "Computer Lab-4",
             "sourceText": "Digital Logic Design / Computer Organization & Architecture Computer Lab-4"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "YOGA",
             "room": null,
             "sourceText": "YOGA"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Probability / and Statistics",
             "room": null,
             "sourceText": "Probability and Statistics"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "Data Structures / and Algorithms",
             "room": null,
             "sourceText": "Data Structures and Algorithms"
@@ -4293,48 +4293,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Data Structures / and Algorithms",
             "room": null,
             "sourceText": "Data Structures and Algorithms"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Digital Logic / Design",
             "room": null,
             "sourceText": "Digital Logic Design"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Probability / and Statistics",
             "room": null,
             "sourceText": "Probability and Statistics"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Fundamentals / of ML",
             "room": null,
             "sourceText": "Fundamentals of ML"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "DLD \\ COA / LAB",
             "room": null,
             "sourceText": "DLD \\ COA LAB"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Digital Logic Design / / Computer Organization &",
             "room": "Architecture Computer Lab-4",
             "sourceText": "Digital Logic Design / Computer Organization & Architecture Computer Lab-4"
@@ -4346,48 +4346,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Fundamentals / of ML",
             "room": null,
             "sourceText": "Fundamentals of ML"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "*Honors",
             "room": null,
             "sourceText": "*Honors"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Data Structures / and Algorithms",
             "room": null,
             "sourceText": "Data Structures and Algorithms"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Computer / Organization / & Architecture",
             "room": null,
             "sourceText": "Computer Organization & Architecture"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "FML LAB",
             "room": null,
             "sourceText": "FML LAB"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Fundamentals of Machine / Learning",
             "room": "Computer Lab - 5",
             "sourceText": "Fundamentals of Machine Learning Computer Lab - 5"
@@ -4461,48 +4461,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Computer / Organization / & Architecture",
             "room": null,
             "sourceText": "Computer Organization & Architecture"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Probability / and Statistics",
             "room": null,
             "sourceText": "Probability and Statistics"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Fundamentals / of ML",
             "room": null,
             "sourceText": "Fundamentals of ML"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Soft Skills-II",
             "room": null,
             "sourceText": "Soft Skills-II"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Computer / Organization / & Architecture",
             "room": null,
             "sourceText": "Computer Organization & Architecture"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "CI",
             "room": null,
             "sourceText": "CI"
@@ -4514,40 +4514,40 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Digital Logic / Design",
             "room": null,
             "sourceText": "Digital Logic Design"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Data Structures and Algorithms",
             "room": "Computer Lab - 1",
             "sourceText": "Data Structures and Algorithms Computer Lab - 1"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "YOGA",
             "room": null,
             "sourceText": "YOGA"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Data Structures / and Algorithms",
             "room": null,
             "sourceText": "Data Structures and Algorithms"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "Computer / Organization / & Architecture",
             "room": null,
             "sourceText": "Computer Organization & Architecture"
@@ -4559,40 +4559,40 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Fundamentals of Machine Learning",
             "room": "Computer Lab - 5",
             "sourceText": "Fundamentals of Machine Learning Computer Lab - 5"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Cyber Space / Operations",
             "room": null,
             "sourceText": "Cyber Space Operations"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "Probability / and Statistics",
             "room": null,
             "sourceText": "Probability and Statistics"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Fundamentals / of ML",
             "room": null,
             "sourceText": "Fundamentals of ML"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "Digital Logic / Design",
             "room": null,
             "sourceText": "Digital Logic Design"
@@ -4604,48 +4604,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Fundamentals / of ML",
             "room": null,
             "sourceText": "Fundamentals of ML"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Digital Logic / Design",
             "room": null,
             "sourceText": "Digital Logic Design"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Data Structures / and Algorithms",
             "room": null,
             "sourceText": "Data Structures and Algorithms"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Probability / and Statistics",
             "room": null,
             "sourceText": "Probability and Statistics"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "DLD \\ COA / LAB",
             "room": null,
             "sourceText": "DLD \\ COA LAB"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Digital Logic Design / / Computer Organization &",
             "room": "Architecture Computer Lab-4",
             "sourceText": "Digital Logic Design / Computer Organization & Architecture Computer Lab-4"
@@ -4657,40 +4657,40 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Probability / and Statistics",
             "room": null,
             "sourceText": "Probability and Statistics"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Digital Logic Design / / Computer Organization & Architecture",
             "room": "Computer Lab-4",
             "sourceText": "Digital Logic Design / Computer Organization & Architecture Computer Lab-4"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "Data Structures / and Algorithms",
             "room": null,
             "sourceText": "Data Structures and Algorithms"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Cyber Space / Operations",
             "room": null,
             "sourceText": "Cyber Space Operations"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "Cyber Space / Operations",
             "room": null,
             "sourceText": "Cyber Space Operations"
@@ -4764,40 +4764,40 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Data Structures / and Algorithms",
             "room": null,
             "sourceText": "Data Structures and Algorithms"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Digital Logic Design / / Computer Organization & Architecture",
             "room": "Computer Lab-4",
             "sourceText": "Digital Logic Design / Computer Organization & Architecture Computer Lab-4"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "Fundamentals / of ML",
             "room": null,
             "sourceText": "Fundamentals of ML"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Digital Logic / Design",
             "room": null,
             "sourceText": "Digital Logic Design"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "CI",
             "room": null,
             "sourceText": "CI"
@@ -4809,48 +4809,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Computer / Organization / & Architecture",
             "room": null,
             "sourceText": "Computer Organization & Architecture"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Digital Logic / Design",
             "room": null,
             "sourceText": "Digital Logic Design"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Data Structures / and Algorithms",
             "room": null,
             "sourceText": "Data Structures and Algorithms"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Probability / and Statistics",
             "room": null,
             "sourceText": "Probability and Statistics"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "DLD \\ COA / LAB",
             "room": null,
             "sourceText": "DLD \\ COA LAB"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Digital Logic Design / / Computer Organization &",
             "room": "Architecture Computer Lab-4",
             "sourceText": "Digital Logic Design / Computer Organization & Architecture Computer Lab-4"
@@ -4862,48 +4862,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Digital Logic / Design",
             "room": null,
             "sourceText": "Digital Logic Design"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Fundamentals / of ML",
             "room": null,
             "sourceText": "Fundamentals of ML"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Probability / and Statistics",
             "room": null,
             "sourceText": "Probability and Statistics"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Soft Skills-II",
             "room": null,
             "sourceText": "Soft Skills-II"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Intelligent / Systems",
             "room": null,
             "sourceText": "Intelligent Systems"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "Data Structures / and Algorithms",
             "room": null,
             "sourceText": "Data Structures and Algorithms"
@@ -4915,48 +4915,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Fundamentals / of ML",
             "room": null,
             "sourceText": "Fundamentals of ML"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Probability / and Statistics",
             "room": null,
             "sourceText": "Probability and Statistics"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Computer / Organization / & Architecture",
             "room": null,
             "sourceText": "Computer Organization & Architecture"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Intelligent / Systems",
             "room": null,
             "sourceText": "Intelligent Systems"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "DSA Lab",
             "room": null,
             "sourceText": "DSA Lab"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Data Structures and Algorithms",
             "room": "Computer Lab - 1",
             "sourceText": "Data Structures and Algorithms Computer Lab - 1"
@@ -4968,40 +4968,40 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Probability / and Statistics",
             "room": null,
             "sourceText": "Probability and Statistics"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Fundamentals of Machine Learning",
             "room": "Computer Lab - 5",
             "sourceText": "Fundamentals of Machine Learning Computer Lab - 5"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "Intelligent / Systems",
             "room": null,
             "sourceText": "Intelligent Systems"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Computer / Organization / & Architecture",
             "room": null,
             "sourceText": "Computer Organization & Architecture"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "YOGA",
             "room": null,
             "sourceText": "YOGA"
@@ -5075,48 +5075,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Digital Logic / Design",
             "room": null,
             "sourceText": "Digital Logic Design"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Intelligent / Systems",
             "room": null,
             "sourceText": "Intelligent Systems"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Data Structures / and Algorithms",
             "room": null,
             "sourceText": "Data Structures and Algorithms"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Probability / and Statistics",
             "room": null,
             "sourceText": "Probability and Statistics"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "DLD \\ COA / LAB",
             "room": null,
             "sourceText": "DLD \\ COA LAB"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Digital Logic Design / / Computer Organization &",
             "room": "Architecture Computer Lab-4",
             "sourceText": "Digital Logic Design / Computer Organization & Architecture Computer Lab-4"
@@ -5128,48 +5128,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Data Structures / and Algorithms",
             "room": null,
             "sourceText": "Data Structures and Algorithms"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Probability / and Statistics",
             "room": null,
             "sourceText": "Probability and Statistics"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Fundamentals / of ML",
             "room": null,
             "sourceText": "Fundamentals of ML"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Digital Logic / Design",
             "room": null,
             "sourceText": "Digital Logic Design"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "FML LAB",
             "room": null,
             "sourceText": "FML LAB"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Fundamentals of Machine / Learning",
             "room": "Computer Lab - 5",
             "sourceText": "Fundamentals of Machine Learning Computer Lab - 5"
@@ -5181,40 +5181,40 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Probability / and Statistics",
             "room": null,
             "sourceText": "Probability and Statistics"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Digital Logic Design / / Computer Organization & Architecture",
             "room": "Computer Lab-4",
             "sourceText": "Digital Logic Design / Computer Organization & Architecture Computer Lab-4"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "Intelligent / Systems",
             "room": null,
             "sourceText": "Intelligent Systems"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Computer / Organization / & Architecture",
             "room": null,
             "sourceText": "Computer Organization & Architecture"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "Fundamentals / of ML",
             "room": null,
             "sourceText": "Fundamentals of ML"
@@ -5226,48 +5226,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Probability / and Statistics",
             "room": null,
             "sourceText": "Probability and Statistics"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Computer / Organization / & Architecture",
             "room": null,
             "sourceText": "Computer Organization & Architecture"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Soft Skills-II",
             "room": null,
             "sourceText": "Soft Skills-II"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "CI",
             "room": null,
             "sourceText": "CI"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Computer / Organization / & Architecture",
             "room": null,
             "sourceText": "Computer Organization & Architecture"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "YOGA",
             "room": null,
             "sourceText": "YOGA"
@@ -5279,40 +5279,40 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Intelligent / Systems",
             "room": null,
             "sourceText": "Intelligent Systems"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Data Structures and Algorithms",
             "room": "Computer Lab - 1",
             "sourceText": "Data Structures and Algorithms Computer Lab - 1"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "Fundamentals / of ML",
             "room": null,
             "sourceText": "Fundamentals of ML"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Data Structures / and Algorithms",
             "room": null,
             "sourceText": "Data Structures and Algorithms"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "Digital Logic / Design",
             "room": null,
             "sourceText": "Digital Logic Design"
@@ -5386,48 +5386,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Data Structures / and Algorithms",
             "room": null,
             "sourceText": "Data Structures and Algorithms"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Digital Logic / Design",
             "room": null,
             "sourceText": "Digital Logic Design"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Computer / Organization / & Architecture",
             "room": null,
             "sourceText": "Computer Organization & Architecture"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Probability / and Statistics",
             "room": null,
             "sourceText": "Probability and Statistics"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "FML LAB",
             "room": null,
             "sourceText": "FML LAB"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Fundamentals of Machine / Learning",
             "room": "Computer Lab - 5",
             "sourceText": "Fundamentals of Machine Learning Computer Lab - 5"
@@ -5439,40 +5439,40 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Fundamentals / of ML",
             "room": null,
             "sourceText": "Fundamentals of ML"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Digital Logic Design / / Computer Organization & Architecture",
             "room": "Computer Lab-4",
             "sourceText": "Digital Logic Design / Computer Organization & Architecture Computer Lab-4"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "Probability / and Statistics",
             "room": null,
             "sourceText": "Probability and Statistics"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Fundamentals / of ML",
             "room": null,
             "sourceText": "Fundamentals of ML"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "CI",
             "room": null,
             "sourceText": "CI"
@@ -5484,48 +5484,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Digital Logic / Design",
             "room": null,
             "sourceText": "Digital Logic Design"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Computer / Organization / & Architecture",
             "room": null,
             "sourceText": "Computer Organization & Architecture"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Data Structures / and Algorithms",
             "room": null,
             "sourceText": "Data Structures and Algorithms"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "*Honors",
             "room": null,
             "sourceText": "*Honors"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "DLD \\ COA / LAB",
             "room": null,
             "sourceText": "DLD \\ COA LAB"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Digital Logic Design / / Computer Organization &",
             "room": "Architecture Computer Lab-4",
             "sourceText": "Digital Logic Design / Computer Organization & Architecture Computer Lab-4"
@@ -5537,40 +5537,40 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Probability / and Statistics",
             "room": null,
             "sourceText": "Probability and Statistics"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Data Structures and Algorithms",
             "room": "Computer Lab - 1",
             "sourceText": "Data Structures and Algorithms Computer Lab - 1"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "Fundamentals / of ML",
             "room": null,
             "sourceText": "Fundamentals of ML"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Data Structures / and Algorithms",
             "room": null,
             "sourceText": "Data Structures and Algorithms"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "*Honors",
             "room": null,
             "sourceText": "*Honors"
@@ -5582,48 +5582,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "*Honors",
             "room": null,
             "sourceText": "*Honors"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Digital Logic / Design",
             "room": null,
             "sourceText": "Digital Logic Design"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Probability / and Statistics",
             "room": null,
             "sourceText": "Probability and Statistics"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Computer / Organization / & Architecture",
             "room": null,
             "sourceText": "Computer Organization & Architecture"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "YOGA",
             "room": null,
             "sourceText": "YOGA"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Soft Skills-II",
             "room": null,
             "sourceText": "Soft Skills-II"
@@ -5697,40 +5697,40 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Probability / and Statistics",
             "room": null,
             "sourceText": "Probability and Statistics"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Fundamentals of Machine Learning",
             "room": "Computer Lab - 5",
             "sourceText": "Fundamentals of Machine Learning Computer Lab - 5"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "YOGA",
             "room": null,
             "sourceText": "YOGA"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "AI and / Machine / Learning",
             "room": null,
             "sourceText": "AI and Machine Learning"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "CI",
             "room": null,
             "sourceText": "CI"
@@ -5742,48 +5742,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Computer / Organization / & Architecture",
             "room": null,
             "sourceText": "Computer Organization & Architecture"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "AI and / Machine / Learning",
             "room": null,
             "sourceText": "AI and Machine Learning"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Data Structures / and Algorithms",
             "room": null,
             "sourceText": "Data Structures and Algorithms"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Soft Skills-II",
             "room": null,
             "sourceText": "Soft Skills-II"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "AI and / Machine / Learning",
             "room": null,
             "sourceText": "AI and Machine Learning"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "Probability / and Statistics",
             "room": null,
             "sourceText": "Probability and Statistics"
@@ -5795,48 +5795,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Data Structures / and Algorithms",
             "room": null,
             "sourceText": "Data Structures and Algorithms"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Fundamentals / of ML",
             "room": null,
             "sourceText": "Fundamentals of ML"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Computer / Organization / & Architecture",
             "room": null,
             "sourceText": "Computer Organization & Architecture"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Digital Logic / Design",
             "room": null,
             "sourceText": "Digital Logic Design"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "DSA Lab",
             "room": null,
             "sourceText": "DSA Lab"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Data Structures and Algorithms",
             "room": "Computer Lab - 1",
             "sourceText": "Data Structures and Algorithms Computer Lab - 1"
@@ -5848,40 +5848,40 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Fundamentals / of ML",
             "room": null,
             "sourceText": "Fundamentals of ML"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Digital Logic Design / / Computer Organization & Architecture",
             "room": "Computer Lab-4",
             "sourceText": "Digital Logic Design / Computer Organization & Architecture Computer Lab-4"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "Probability / and Statistics",
             "room": null,
             "sourceText": "Probability and Statistics"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Digital Logic / Design",
             "room": null,
             "sourceText": "Digital Logic Design"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "subject": "Computer / Organization / & Architecture",
             "room": null,
             "sourceText": "Computer Organization & Architecture"
@@ -5893,48 +5893,48 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "subject": "Digital Logic / Design",
             "room": null,
             "sourceText": "Digital Logic Design"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "subject": "Probability / and Statistics",
             "room": null,
             "sourceText": "Probability and Statistics"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "subject": "Fundamentals / of ML",
             "room": null,
             "sourceText": "Fundamentals of ML"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "subject": "Data Structures / and Algorithms",
             "room": null,
             "sourceText": "Data Structures and Algorithms"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "subject": "DLD \\ COA / LAB",
             "room": null,
             "sourceText": "DLD \\ COA LAB"
           },
           {
             "period": 6,
-            "start": "14:10",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "subject": "Digital Logic Design / / Computer Organization &",
             "room": "Architecture Computer Lab-4",
             "sourceText": "Digital Logic Design / Computer Organization & Architecture Computer Lab-4"

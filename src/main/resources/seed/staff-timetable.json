@@ -17,14 +17,14 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "SPM"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "SPM"
           }
         ]
@@ -34,8 +34,8 @@
         "slots": [
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "SPM"
           }
         ]
@@ -45,8 +45,8 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "ME Project Work"
           }
         ]
@@ -56,20 +56,20 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
-            "event": "DA"
-          },
-          {
-            "period": 2,
             "start": "09:10",
             "end": "10:10",
             "event": "DA"
           },
           {
+            "period": 2,
+            "start": "10:10",
+            "end": "11:10",
+            "event": "DA"
+          },
+          {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "CV"
           }
         ]
@@ -79,20 +79,20 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
-            "event": "CV"
-          },
-          {
-            "period": 2,
             "start": "09:10",
             "end": "10:10",
             "event": "CV"
           },
           {
+            "period": 2,
+            "start": "10:10",
+            "end": "11:10",
+            "event": "CV"
+          },
+          {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "DA"
           }
         ]
@@ -102,8 +102,8 @@
         "slots": [
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "DA Lab"
           }
         ]
@@ -125,20 +125,20 @@
         "slots": [
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "CN"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "CN LAB"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S4 CN LAB"
           }
         ]
@@ -148,8 +148,8 @@
         "slots": [
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S3 CN LAB"
           }
         ]
@@ -159,14 +159,14 @@
         "slots": [
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "IV –MC"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "event": "CN"
           }
         ]
@@ -176,8 +176,8 @@
         "slots": [
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "IV –MC"
           }
         ]
@@ -187,14 +187,14 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "IV –MC"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "CN"
           }
         ]
@@ -216,26 +216,26 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "OOAD"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "JAVA"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "JAVA Lab"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S2 JAVA Lab"
           }
         ]
@@ -245,8 +245,8 @@
         "slots": [
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S1 JAVA Lab"
           }
         ]
@@ -256,14 +256,14 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "OOAD"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "event": "JAVA"
           }
         ]
@@ -273,14 +273,14 @@
         "slots": [
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "OOAD"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "JAVA"
           }
         ]
@@ -303,20 +303,20 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "S6 DSA"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S7 DSA"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "S2 COA"
           }
         ]
@@ -326,14 +326,14 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "S7 DSA"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S6 DSA"
           }
         ]
@@ -343,14 +343,14 @@
         "slots": [
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "S2 COA"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "event": "S6 DSA"
           }
         ]
@@ -360,20 +360,20 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "S2 COA"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "S9 / S2 COA LAB"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "event": "S7 DSA"
           }
         ]
@@ -383,8 +383,8 @@
         "slots": [
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S7 DSA LAB"
           }
         ]
@@ -407,20 +407,20 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "S2 JAVA"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "DBA LAB"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "DBA LAB"
           }
         ]
@@ -430,14 +430,14 @@
         "slots": [
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "IV-Honos"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "IV-Honos"
           }
         ]
@@ -447,14 +447,14 @@
         "slots": [
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "S6 JAVA"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "event": "S2 JAVA"
           }
         ]
@@ -464,14 +464,14 @@
         "slots": [
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S6 JAVA LAB"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S6 JAVA"
           }
         ]
@@ -481,20 +481,20 @@
         "slots": [
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "S2 JAVA"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "IV-Honos"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "event": "S6 JAVA"
           }
         ]
@@ -516,20 +516,20 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "IV –CB"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "event": "S4 JAVA"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "event": "S5 JAVA"
           }
         ]
@@ -539,8 +539,8 @@
         "slots": [
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S4 JAVA LAB"
           }
         ]
@@ -550,20 +550,20 @@
         "slots": [
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "S4 JAVA"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "event": "IV –CB"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S5 JAVA"
           }
         ]
@@ -573,20 +573,20 @@
         "slots": [
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "IV –CB"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "S4 JAVA"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "event": "CI"
           }
         ]
@@ -596,20 +596,20 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "S5 JAVA"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "JAVA Lab"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S5 JAVA LAB"
           }
         ]
@@ -631,20 +631,20 @@
         "slots": [
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "OOAD"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "event": "OOAD"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S3 JAVA"
           }
         ]
@@ -654,8 +654,8 @@
         "slots": [
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "S7 JAVA"
           }
         ]
@@ -665,20 +665,20 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "OOAD"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "S3 JAVA"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S7 JAVA"
           }
         ]
@@ -688,20 +688,20 @@
         "slots": [
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S3 JAVA"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "JAVA LAB"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S3 JAVA LAB"
           }
         ]
@@ -711,14 +711,14 @@
         "slots": [
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S7 JAVA LAB"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "event": "S7 JAVA"
           }
         ]
@@ -742,14 +742,14 @@
         "slots": [
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "OOAD2"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "event": "OOAD2"
           }
         ]
@@ -759,14 +759,14 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "OOAD1"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "Essentials of Computing Lab"
           }
         ]
@@ -776,14 +776,14 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "OOAD2"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "event": "HONS-CY"
           }
         ]
@@ -793,14 +793,14 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "OOAD1"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S5 DV LAB"
           }
         ]
@@ -810,14 +810,14 @@
         "slots": [
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "OOAD1"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "HONS- CY"
           }
         ]
@@ -839,14 +839,14 @@
         "slots": [
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "S1 DSA"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "event": "S2 DSA"
           }
         ]
@@ -856,26 +856,26 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "OOAD"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S2 DSA"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "DSA LAB"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S2 DSA LAB"
           }
         ]
@@ -885,20 +885,20 @@
         "slots": [
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "S1 DSA LAB"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "CI"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S1 DSA"
           }
         ]
@@ -908,20 +908,20 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "OOAD"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S1 DSA"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "S2 DSA"
           }
         ]
@@ -931,8 +931,8 @@
         "slots": [
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "OOAD"
           }
         ]
@@ -954,14 +954,14 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "S4 NLP"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "S1 NLP"
           }
         ]
@@ -971,14 +971,14 @@
         "slots": [
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "event": "CI"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S4 NLP"
           }
         ]
@@ -988,20 +988,20 @@
         "slots": [
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "event": "HONS - CY"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "NLP LAB"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S4 NLP LAB"
           }
         ]
@@ -1011,20 +1011,20 @@
         "slots": [
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "S1 NLP"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "NLP LAB"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S1 NLP LAB"
           }
         ]
@@ -1034,20 +1034,20 @@
         "slots": [
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "S4 NLP"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "event": "S1 NLP"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "HONS - CY"
           }
         ]
@@ -1070,26 +1070,26 @@
         "slots": [
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "S3 DBMS"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "event": "DSA"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "DSA LAB"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S3 DSA LAB"
           }
         ]
@@ -1099,14 +1099,14 @@
         "slots": [
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "S4 DBMS"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "event": "CI"
           }
         ]
@@ -1116,20 +1116,20 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "S4 DBMS"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "DSA"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "event": "S3 DBMS"
           }
         ]
@@ -1139,14 +1139,14 @@
         "slots": [
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S4 DBMS LAB"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "DSA"
           }
         ]
@@ -1156,14 +1156,14 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "S3 DBMS"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "event": "S4 DBMS"
           }
         ]
@@ -1186,26 +1186,26 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "S5 COA"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S8 COA"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "CN"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S5 COA"
           }
         ]
@@ -1215,14 +1215,14 @@
         "slots": [
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "event": "CN"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "event": "S5 COA"
           }
         ]
@@ -1232,20 +1232,20 @@
         "slots": [
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "S8 COA"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "COA LAB"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S8 COA LAB"
           }
         ]
@@ -1255,14 +1255,14 @@
         "slots": [
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S2 CN LAB"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "event": "CI"
           }
         ]
@@ -1272,14 +1272,14 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "CN"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "event": "S8 COA"
           }
         ]
@@ -1302,8 +1302,8 @@
         "slots": [
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S1 CN LAB"
           }
         ]
@@ -1313,20 +1313,20 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "S9 COA"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "event": "CN"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S3 COA"
           }
         ]
@@ -1336,20 +1336,20 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "CN"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S9 COA"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "CI"
           }
         ]
@@ -1359,20 +1359,20 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "S3 COA"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "S3 COA"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "event": "S9 COA"
           }
         ]
@@ -1382,20 +1382,20 @@
         "slots": [
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "CN"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "COA LAB"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S9/S3 COA LAB"
           }
         ]
@@ -1417,8 +1417,8 @@
         "slots": [
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S6 COA LAB"
           }
         ]
@@ -1428,26 +1428,26 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "S6 COA"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S4 COA"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "S6 / S1 COA LAB"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S6 / S1 COA LAB"
           }
         ]
@@ -1457,14 +1457,14 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "S4 COA"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "IV-CB"
           }
         ]
@@ -1474,20 +1474,20 @@
         "slots": [
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "IV-CB"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S6 COA"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "event": "CI"
           }
         ]
@@ -1497,20 +1497,20 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "IV-CB"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "event": "S4 COA"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S6 COA"
           }
         ]
@@ -1532,14 +1532,14 @@
         "slots": [
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "event": "S3 NLP"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "event": "S2 NLP"
           }
         ]
@@ -1549,26 +1549,26 @@
         "slots": [
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "S2 NLP"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "IV-Honors"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "S3 NLP"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "IV-Honors"
           }
         ]
@@ -1578,14 +1578,14 @@
         "slots": [
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S3 NLP LAB"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S3 NLP"
           }
         ]
@@ -1595,14 +1595,14 @@
         "slots": [
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "CI"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S2 NLP"
           }
         ]
@@ -1612,20 +1612,20 @@
         "slots": [
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "IV-Honors"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "NLP LAB"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S2 NLP LAB"
           }
         ]
@@ -1647,14 +1647,14 @@
         "slots": [
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S2 DBMS LAB"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "event": "CI"
           }
         ]
@@ -1664,26 +1664,26 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "HONS"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S2 DBMS"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "DBMS LAB"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S1 DBMS LAB"
           }
         ]
@@ -1693,14 +1693,14 @@
         "slots": [
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "S2 DBMS"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S1 DBMS"
           }
         ]
@@ -1710,14 +1710,14 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "HONS"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S1 DBMS"
           }
         ]
@@ -1727,20 +1727,20 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "S1 DBMS"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "event": "S2 DBMS"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "HONS"
           }
         ]
@@ -1763,26 +1763,26 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "CN"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "S1 COA"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "COA LAB"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S7 / S1 COA LAB"
           }
         ]
@@ -1792,14 +1792,14 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "S1COA"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "CN"
           }
         ]
@@ -1809,20 +1809,20 @@
         "slots": [
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S7 CN LAB"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S7 COA"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "event": "CI"
           }
         ]
@@ -1832,20 +1832,20 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "S7 COA"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "event": "CN"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S7 COA"
           }
         ]
@@ -1855,8 +1855,8 @@
         "slots": [
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "S1 COA"
           }
         ]
@@ -1878,14 +1878,14 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "S8 DSA"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "HONS"
           }
         ]
@@ -1895,14 +1895,14 @@
         "slots": [
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "HONS"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S9 DSA"
           }
         ]
@@ -1912,26 +1912,26 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "S9 DSA"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S8 DSA"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "DSA LAB"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S9 DSA LAB"
           }
         ]
@@ -1941,14 +1941,14 @@
         "slots": [
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S8 DSA LAB"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S8 DSA"
           }
         ]
@@ -1958,14 +1958,14 @@
         "slots": [
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "HONS"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "event": "S9 DSA"
           }
         ]
@@ -1987,14 +1987,14 @@
         "slots": [
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S4 DSA LAB"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "event": "CI"
           }
         ]
@@ -2004,14 +2004,14 @@
         "slots": [
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S5 DSA LAB"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S5 DSA"
           }
         ]
@@ -2021,14 +2021,14 @@
         "slots": [
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "event": "HONS"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "event": "S4 DSA"
           }
         ]
@@ -2038,20 +2038,20 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "S4 DSA"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S5 DSA"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "event": "HONS"
           }
         ]
@@ -2061,20 +2061,20 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "HONS"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S4 DSA"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "S5 DSA"
           }
         ]
@@ -2096,14 +2096,14 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "S6 DBMS"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "event": "CI"
           }
         ]
@@ -2113,14 +2113,14 @@
         "slots": [
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S6 DBMS LAB"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "event": "S7 DBMS"
           }
         ]
@@ -2130,14 +2130,14 @@
         "slots": [
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S6 DBMS"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "event": "HONS"
           }
         ]
@@ -2147,20 +2147,20 @@
         "slots": [
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S7 DBMS"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "DBMS LAB"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S7 DBMS LAB"
           }
         ]
@@ -2170,26 +2170,26 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "S7 DBMS"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S6 DBMS"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "HONS"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "event": "HONS"
           }
         ]
@@ -2211,14 +2211,14 @@
         "slots": [
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S6 CN"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "event": "CI"
           }
         ]
@@ -2228,20 +2228,20 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "S5 CN"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "CN LAB"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S5 CN LAB"
           }
         ]
@@ -2251,20 +2251,20 @@
         "slots": [
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "event": "HONS"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "CN LAB"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S6 CN LAB"
           }
         ]
@@ -2274,14 +2274,14 @@
         "slots": [
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "S5 CN"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "event": "S6 CN"
           }
         ]
@@ -2291,26 +2291,26 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "S6 CN"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S5 CN"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "HONS"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "event": "HONS"
           }
         ]
@@ -2332,14 +2332,14 @@
         "slots": [
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S9 ML LAB"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "event": "CI"
           }
         ]
@@ -2349,20 +2349,20 @@
         "slots": [
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S7 ML"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "ML LAB"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S7 ML LAB"
           }
         ]
@@ -2372,20 +2372,20 @@
         "slots": [
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "S9 ML"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "event": "HONS"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "event": "S7 ML"
           }
         ]
@@ -2395,20 +2395,20 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "S9 ML"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S7 ML"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "event": "HONS"
           }
         ]
@@ -2418,14 +2418,14 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "HONS"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S9 ML"
           }
         ]
@@ -2447,20 +2447,20 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "S2 ML"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S2 ML"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "CI"
           }
         ]
@@ -2470,8 +2470,8 @@
         "slots": [
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "event": "S4 ML"
           }
         ]
@@ -2481,26 +2481,26 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "CN"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S2 ML"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "ML LAB"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S2 ML LAB"
           }
         ]
@@ -2510,14 +2510,14 @@
         "slots": [
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "CN"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "event": "S4 ML"
           }
         ]
@@ -2527,26 +2527,26 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "S4 ML"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "event": "CN"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "ML LAB"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S4 ML LAB"
           }
         ]
@@ -2568,26 +2568,26 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "NLP"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S3 ML"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "ML LAB"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S8 ML LAB"
           }
         ]
@@ -2597,20 +2597,20 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "S8 ML"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "event": "NLP"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S8 ML"
           }
         ]
@@ -2620,14 +2620,14 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "S3 ML"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "CI"
           }
         ]
@@ -2637,14 +2637,14 @@
         "slots": [
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S3 ML LAB"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "S8 ML"
           }
         ]
@@ -2654,14 +2654,14 @@
         "slots": [
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "NLP"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "event": "S3 ML"
           }
         ]
@@ -2683,20 +2683,20 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "S1 ML"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "S6 ML"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S9 HONS"
           }
         ]
@@ -2706,20 +2706,20 @@
         "slots": [
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "HONS"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "event": "S1 ML"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S9 HONS"
           }
         ]
@@ -2729,8 +2729,8 @@
         "slots": [
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "S6 ML"
           }
         ]
@@ -2740,26 +2740,26 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "S6 ML"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "S1 ML"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "ML LAB"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S1 ML LAB"
           }
         ]
@@ -2769,8 +2769,8 @@
         "slots": [
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S6 ML LAB"
           }
         ]
@@ -2792,20 +2792,20 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "IV-IOT"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "II IOT"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "IV IOT LAB"
           }
         ]
@@ -2815,26 +2815,26 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "III IOT"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "II IOT"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "IV-IOT"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "IV-IOT"
           }
         ]
@@ -2844,8 +2844,8 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "III IOT"
           }
         ]
@@ -2855,20 +2855,20 @@
         "slots": [
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "II IOT"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "IV-IOT"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "III IOT"
           }
         ]
@@ -2890,8 +2890,8 @@
         "slots": [
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S5 FML"
           }
         ]
@@ -2901,14 +2901,14 @@
         "slots": [
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "S5 FML LAB"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S5 FML"
           }
         ]
@@ -2918,8 +2918,8 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "S5 FML"
           }
         ]
@@ -2929,14 +2929,14 @@
         "slots": [
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "DBMS LAB"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S3 DBMS LAB"
           }
         ]
@@ -2959,20 +2959,20 @@
         "slots": [
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "S7 HONS"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "DV LAB"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S6 DV LAB"
           }
         ]
@@ -2982,8 +2982,8 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "NLP"
           }
         ]
@@ -2993,14 +2993,14 @@
         "slots": [
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "S7 HONS"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S6 HONS"
           }
         ]
@@ -3010,14 +3010,14 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "NLP"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "event": "S6 HONS"
           }
         ]
@@ -3027,20 +3027,20 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "S7 HONS"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "S6 HONS"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "NLP"
           }
         ]
@@ -3064,20 +3064,20 @@
         "slots": [
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "IOT2"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "event": "IOT2"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "DBMS"
           }
         ]
@@ -3087,14 +3087,14 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "IOT1"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "DBMS"
           }
         ]
@@ -3104,20 +3104,20 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "IOT2"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "S5 DBMS LAB"
           },
           {
             "period": 7,
-            "start": "15:10",
-            "end": "16:10",
+            "start": "16:00",
+            "end": "16:50",
             "event": "DBMS"
           }
         ]
@@ -3127,20 +3127,20 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "IOT1"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "DSA LAB"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "S6 DSA LAB"
           }
         ]
@@ -3150,8 +3150,8 @@
         "slots": [
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "IOT1"
           }
         ]
@@ -3172,8 +3172,8 @@
         "slots": [
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "IV –CSE"
           }
         ]
@@ -3183,8 +3183,8 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "IV –CSE"
           }
         ]
@@ -3194,8 +3194,8 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "IV –CSE"
           }
         ]
@@ -3216,20 +3216,20 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "I CSE S4"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "I CSE S1"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "I CSE S5"
           }
         ]
@@ -3239,14 +3239,14 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "I CSE S5"
           },
           {
             "period": 6,
-            "start": "14:20",
-            "end": "15:10",
+            "start": "15:10",
+            "end": "16:00",
             "event": "I CSE S1"
           }
         ]
@@ -3256,20 +3256,20 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "I CSE S5"
           },
           {
             "period": 3,
-            "start": "10:20",
-            "end": "11:20",
+            "start": "11:20",
+            "end": "12:20",
             "event": "I CSE S1"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "I CSE S4"
           }
         ]
@@ -3279,26 +3279,26 @@
         "slots": [
           {
             "period": 1,
-            "start": "08:10",
-            "end": "09:10",
+            "start": "09:10",
+            "end": "10:10",
             "event": "I CSE S4"
           },
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "I CSE S5"
           },
           {
             "period": 4,
-            "start": "11:20",
-            "end": "12:20",
+            "start": "12:20",
+            "end": "13:20",
             "event": "I CSE S4"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "I CSE S1"
           }
         ]
@@ -3308,14 +3308,14 @@
         "slots": [
           {
             "period": 2,
-            "start": "09:10",
-            "end": "10:10",
+            "start": "10:10",
+            "end": "11:10",
             "event": "I CSE S4 EC LAB – Dell LAB"
           },
           {
             "period": 5,
-            "start": "12:20",
-            "end": "13:20",
+            "start": "14:20",
+            "end": "15:10",
             "event": "I CSE S5 EC LAB – LAB-2"
           }
         ]
